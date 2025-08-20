@@ -1,0 +1,309 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Online Doctor - Your Healthcare Partner</title>
+  <script>
+    // Disable back and forward navigation
+    (function() {
+      // Listen to the popstate event to prevent the user from using the back or forward buttons
+      window.history.pushState(null, null, window.location.href);
+      window.onpopstate = function() {
+        window.history.pushState(null, null, window.location.href);
+      };
+
+      // Optionally, prevent right-clicking on the page to access browser navigation options
+      document.addEventListener('contextmenu', function(e) {
+        e.preventDefault();  // Disable right-click context menu
+      });
+    })();
+  </script>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #eef2f3, #d9eaf7);
+      color: #222;
+      text-align: center;
+      overflow-x: hidden;
+      animation: fadeIn 1s ease-in-out;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .header {
+      background: linear-gradient(90deg,#1A2980, rgb(15, 154, 152));
+      padding: 25px 15px;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
+      box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+      animation: slideDown 1s ease;
+    }
+
+    @keyframes slideDown {
+      from { transform: translateY(-100%); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+
+    .header img {
+      height: 55px;
+      border-radius: 50%;
+      transition: transform 0.3s;
+    }
+
+    .header img:hover {
+      transform: scale(1.1) rotate(5deg);
+    }
+
+    .header h1 {
+      font-size: 28px;
+      background: linear-gradient(45deg, #1E88E5, #BBDEFB);
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: glow 2s infinite alternate;
+    }
+
+    @keyframes glow {
+      from { text-shadow: 0 0 5px #fff; }
+      to { text-shadow: 0 0 20px #00ffff; }
+    }
+
+    .container {
+      max-width: 950px;
+      margin: 50px auto;
+      padding: 30px;
+      background: linear-gradient(135deg, #ffffff, #e8f8f5);
+      border-radius: 20px;
+      box-shadow: 0 12px 30px rgba(0,0,0,0.1);
+      animation: zoomIn 1.5s ease;
+      position: relative;
+      z-index: 1;
+    }
+
+    @keyframes zoomIn {
+      from { transform: scale(0.9); opacity: 0; }
+      to { transform: scale(1); opacity: 1; }
+    }
+
+    .banner {
+      overflow: hidden;
+      border-radius: 15px;
+      position: relative;
+    }
+
+    .banner img {
+      width: 100%;
+      transition: transform 1s ease;
+    }
+
+    .banner img:hover {
+      transform: scale(1.08) rotate(-1deg);
+    }
+
+    h2, #typewriter {
+      margin-top: 25px;
+      font-size: 30px;
+      color: #007ACC;
+      animation: floatText 2s ease-in-out infinite alternate;
+    }
+
+    @keyframes floatText {
+      0% { transform: translateY(0); }
+      100% { transform: translateY(-5px); }
+    }
+
+    p {
+      margin: 15px 0;
+      font-size: 17px;
+      line-height: 1.7;
+      color: #333;
+      transition: all 0.3s ease;
+    }
+
+    p:hover {
+      color: #1a5276;
+      transform: scale(1.01);
+    }
+
+    strong {
+      color: #27ae60;
+    }
+
+    .button {
+      display: inline-block;
+      margin: 20px 10px;
+      padding: 14px 30px;
+      font-size: 17px;
+      font-weight: bold;
+      background: linear-gradient(to right,rgb(15, 154, 152), #1A2980);
+      color: white;
+      text-decoration: none;
+      border-radius: 50px;
+      transition: all 0.3s ease;
+      box-shadow: 0 6px 18px rgba(106, 17, 203, 0.4);
+      animation: bounce 2.5s infinite;
+    }
+
+    .button:hover {
+      background: linear-gradient(to right, #27ae60, #2ecc71);
+      transform: scale(1.05);
+      box-shadow: 0 8px 25px rgba(39,174,96,0.5);
+    }
+
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-6px); }
+    }
+
+    .card-container {
+      display: flex;
+      justify-content: center;
+      margin-top: 30px;
+    }
+
+    .flip-card {
+      background-color: transparent;
+      width: 200px;
+      height: 120px;
+      perspective: 1000px;
+      margin: 10px;
+    }
+
+    .flip-card-inner {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      text-align: center;
+      transition: transform 0.8s;
+      transform-style: preserve-3d;
+    }
+
+    .flip-card:hover .flip-card-inner {
+      transform: rotateY(180deg);
+    }
+
+    .flip-card-front, .flip-card-back {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      -webkit-backface-visibility: hidden;
+      backface-visibility: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 12px;
+      font-weight: bold;
+      font-size: 16px;
+      color: white;
+    }
+
+    .flip-card-front {
+      background-color: #1abc9c;
+    }
+
+    .flip-card-back {
+      background-color: #16a085;
+      transform: rotateY(180deg);
+    }
+
+    #particles-js {
+      position: fixed;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      z-index: -2;
+    }
+
+    @media (max-width: 768px) {
+      .container {
+        margin: 30px 15px;
+        padding: 20px;
+      }
+      .header h1 {
+        font-size: 22px;
+      }
+      .button {
+        padding: 12px 22px;
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div id="particles-js"></div>
+
+<div class="header">
+  <img src="doctor1.jpg" alt="Online Doctor Logo">
+  <h1>Online Doctor</h1>
+</div>
+
+<div class="container">
+  <div class="banner">
+    <img src="healthcare-banner.webp" alt="Healthcare Banner">
+  </div>
+
+  <h2 id="typewriter"></h2>
+
+  <p>Empowering smarter health choices for adults aged <strong>18 to 50</strong>. Our system provides personalized medicine and remedy suggestions based on your symptoms and preferred treatment type for <strong>primary level diseases</strong>.</p>
+  <p>Whether you trust the precision of <strong>Allopathy</strong> or the natural approach of <strong>Ayurveda</strong>, we’ve got you covered.</p>
+  <p>Choose your preferred treatment method and get reliable suggestions — <strong>anytime, anywhere</strong>.</p>
+  <p>Your well-being is just a few clicks away.</p>
+
+  <a href="newlog.html" class="button">Get Started</a>
+  
+
+
+
+
+</div>
+
+
+<!-- Typewriter Effect -->
+<script>
+  const text = "Welcome to Online Doctor";
+  let i = 0;
+  function typeWriter() {
+    if (i < text.length) {
+      document.getElementById("typewriter").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(typeWriter, 80);
+    }
+  }
+  typeWriter();
+</script>
+
+<!-- Voice Input Simulation -->
+
+
+<!-- Animated Counter -->
+<script>
+  let count = 0;
+  const counter = document.getElementById("counter");
+  const interval = setInterval(() => {
+    count++;
+    counter.innerText = count;
+    if (count >= 500) clearInterval(interval);
+  }, 10);
+</script>
+
+
+
+</body>
+</html>

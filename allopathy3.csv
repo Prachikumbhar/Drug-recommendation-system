@@ -1,0 +1,1010 @@
+Index,Medicines,Disease,Symptoms,Ratings,Age,Gender
+1,Aloe Vera Gel 108mg,Diarrhea,"Loose stools, Abdominal cramps, Dehydration",5,44,Male
+2,Cinnamon Capsules 88mg,Cough,"Chest discomfort, Throat irritation, Dry cough",4.4,42,Male
+3,Peppermint Oil 348mg,Muscle Pain,"Stiffness, Swelling, Soreness",5,34,All
+4,Cetirizine 388mg,Constipation,"Bloating, Straining, Hard stools",5,42,Male
+5,Aloe Vera Gel 254mg,Headache,"Light sensitivity, Nausea, Throbbing pain",5,40,Male
+6,Paracetamol 351mg,Sore Throat,"Painful swallowing, Scratchy throat, Dry throat",5,38,Female
+7,Calpol 238mg,Constipation,"Straining, Bloating, Hard stools",5,33,Male
+8,Cetirizine 499mg,Diarrhea,"Dehydration, Abdominal cramps, Loose stools",5,23,Male
+9,Tulsi Tea 61mg,Common Cold,"Sneezing, Runny nose, Fatigue",3.6,36,Female
+10,Multivitamin Syrup 337mg,Headache,"Throbbing pain, Light sensitivity, Nausea",5,35,All
+11,Honey Syrup 176mg,Fever,"Chills, High temperature, Body ache",5,19,Male
+12,Isabgol 97mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",3.2,50,Male
+13,Paracetamol 438mg,Fever,"Chills, High temperature, Body ache",5,20,Female
+14,Antacid 276mg,Constipation,"Bloating, Straining, Hard stools",3.5,36,All
+15,Paracetamol 348mg,Muscle Pain,"Soreness, Stiffness, Swelling",5,42,Female
+16,ORS 395mg,Muscle Pain,"Swelling, Soreness, Stiffness",3.6,44,Male
+17,Electral 257mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,21,All
+18,Tulsi Drops 358mg,Common Cold,"Runny nose, Sneezing, Fatigue",5,34,Female
+19,Cinnamon Capsules 108mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,31,Male
+20,Peppermint Oil 115mg,Constipation,"Straining, Hard stools, Bloating",5,37,Female
+21,Isabgol 273mg,Sore Throat,"Painful swallowing, Scratchy throat, Dry throat",5,29,Male
+22,Eucalyptus Oil 375mg,Diarrhea,"Abdominal cramps, Dehydration, Loose stools",3.8,33,All
+23,Ajwain Tablets 412mg,Sore Throat,"Dry throat, Scratchy throat, Painful swallowing",5,42,All
+24,Aloe Vera Gel 458mg,Constipation,"Hard stools, Bloating, Straining",5,39,All
+25,Paracetamol 393mg,Constipation,"Straining, Bloating, Hard stools",5,31,Male
+26,Digestive Enzyme 217mg,Muscle Pain,"Swelling, Stiffness, Soreness",5,50,Male
+27,ORS 256mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",5,35,All
+28,Antacid 304mg,Common Cold,"Fatigue, Sneezing, Runny nose",5,47,All
+29,Chamomile Tea 337mg,Headache,"Nausea, Throbbing pain, Light sensitivity",5,32,All
+30,Peppermint Oil 497mg,Diarrhea,"Loose stools, Dehydration, Abdominal cramps",3.3,24,All
+31,Dolo 650 432mg,Fever,"Chills, Body ache, High temperature",5,20,Male
+32,Isabgol 247mg,Indigestion,"Gas, Stomach discomfort, Bloating",5,41,Female
+33,Vitamin B12 411mg,Diarrhea,"Abdominal cramps, Dehydration, Loose stools",5,46,All
+34,Pain Relief Balm 463mg,Mild Allergy,"Itchy skin, Watery eyes, Sneezing",5,23,Male
+35,Isabgol 317mg,Muscle Pain,"Stiffness, Swelling, Soreness",4.1,38,Male
+36,Herbal Cough Syrup 167mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",5,31,Male
+37,Eucalyptus Oil 465mg,Indigestion,"Stomach discomfort, Gas, Bloating",4.2,19,Female
+38,Probiotic Capsules 341mg,Common Cold,"Fatigue, Runny nose, Sneezing",5,40,Male
+39,Zincovit 253mg,Fever,"Body ache, Chills, High temperature",3.1,19,Male
+40,Vitamin B12 495mg,Fever,"Body ache, Chills, High temperature",5,37,Male
+41,Eucalyptus Oil 344mg,Diarrhea,"Loose stools, Dehydration, Abdominal cramps",5,46,All
+42,Calpol 228mg,Diarrhea,"Abdominal cramps, Dehydration, Loose stools",3.5,25,Male
+43,Digestive Enzyme 334mg,Mild Allergy,"Itchy skin, Watery eyes, Sneezing",5,42,All
+44,Electral 248mg,Sore Throat,"Dry throat, Scratchy throat, Painful swallowing",5,29,Female
+45,Aloe Vera Gel 52mg,Common Cold,"Runny nose, Sneezing, Fatigue",5,22,All
+46,Vitamin C 397mg,Headache,"Nausea, Throbbing pain, Light sensitivity",5,42,All
+47,Herbal Vapour Rub 156mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",5,18,All
+48,Cetirizine 495mg,Common Cold,"Sneezing, Runny nose, Fatigue",5,18,All
+49,Tulsi Drops 95mg,Constipation,"Straining, Bloating, Hard stools",5,25,Female
+50,Aloe Vera Gel 406mg,Headache,"Throbbing pain, Light sensitivity, Nausea",5,45,Female
+51,Antacid 314mg,Fever,"Chills, High temperature, Body ache",5,19,All
+52,Peppermint Oil 110mg,Muscle Pain,"Swelling, Soreness, Stiffness",5,19,Female
+53,Zincovit 386mg,Muscle Pain,"Swelling, Soreness, Stiffness",5,35,Male
+54,Dolo 650 350mg,Cough,"Chest discomfort, Dry cough, Throat irritation",5,43,All
+55,Menthol Rub 279mg,Diarrhea,"Dehydration, Loose stools, Abdominal cramps",5,19,Male
+56,Saline Nasal Spray 120mg,Muscle Pain,"Stiffness, Soreness, Swelling",4.2,23,Male
+57,Herbal Vapour Rub 190mg,Headache,"Throbbing pain, Nausea, Light sensitivity",5,33,Female
+58,Pain Relief Balm 156mg,Fever,"High temperature, Body ache, Chills",3.9,22,Female
+59,Cetirizine 190mg,Fever,"High temperature, Body ache, Chills",5,43,Female
+60,Electral 454mg,Indigestion,"Stomach discomfort, Bloating, Gas",5,36,Male
+61,Digestive Enzyme 327mg,Sore Throat,"Dry throat, Scratchy throat, Painful swallowing",5,30,Female
+62,Herbal Cough Syrup 410mg,Headache,"Nausea, Throbbing pain, Light sensitivity",5,40,Female
+63,Steam Capsules 381mg,Indigestion,"Bloating, Gas, Stomach discomfort",5,45,Male
+64,Pain Relief Balm 149mg,Diarrhea,"Loose stools, Dehydration, Abdominal cramps",5,46,All
+65,Lozenges 92mg,Diarrhea,"Abdominal cramps, Loose stools, Dehydration",5,38,Male
+66,Licorice Lozenges 63mg,Indigestion,"Bloating, Stomach discomfort, Gas",3.8,47,All
+67,Vitamin C 206mg,Sore Throat,"Dry throat, Painful swallowing, Scratchy throat",3.3,47,All
+68,Honey Syrup 484mg,Diarrhea,"Loose stools, Abdominal cramps, Dehydration",3.5,36,Male
+69,ORS 429mg,Sore Throat,"Scratchy throat, Painful swallowing, Dry throat",5,36,All
+70,Steam Capsules 84mg,Common Cold,"Runny nose, Fatigue, Sneezing",5,38,Male
+71,ORS 461mg,Sore Throat,"Painful swallowing, Dry throat, Scratchy throat",5,18,Male
+72,Vitamin C 217mg,Constipation,"Bloating, Straining, Hard stools",5,22,Female
+73,Probiotic Capsules 353mg,Headache,"Nausea, Throbbing pain, Light sensitivity",5,35,All
+74,Saline Nasal Spray 215mg,Constipation,"Bloating, Hard stools, Straining",3.8,49,Male
+75,Electral 296mg,Diarrhea,"Dehydration, Abdominal cramps, Loose stools",3.2,35,Female
+76,Licorice Lozenges 68mg,Mild Allergy,"Itchy skin, Sneezing, Watery eyes",5,32,Female
+77,Menthol Rub 480mg,Common Cold,"Sneezing, Runny nose, Fatigue",5,19,Male
+78,Tulsi Tea 111mg,Indigestion,"Gas, Bloating, Stomach discomfort",3.4,20,All
+79,Eucalyptus Oil 224mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,21,Female
+80,Ginger Extract 100mg,Constipation,"Hard stools, Straining, Bloating",5,32,Male
+81,Vitamin B12 140mg,Common Cold,"Fatigue, Sneezing, Runny nose",5,43,Male
+82,Eucalyptus Oil 348mg,Sore Throat,"Painful swallowing, Dry throat, Scratchy throat",5,46,All
+83,Cinnamon Capsules 54mg,Diarrhea,"Dehydration, Loose stools, Abdominal cramps",4.1,45,All
+84,Vitamin C 51mg,Common Cold,"Runny nose, Fatigue, Sneezing",5,18,Female
+85,Tulsi Tea 263mg,Indigestion,"Bloating, Stomach discomfort, Gas",5,39,All
+86,Zincovit 488mg,Fever,"High temperature, Chills, Body ache",5,33,Male
+87,Multivitamin Syrup 250mg,Common Cold,"Sneezing, Fatigue, Runny nose",5,48,Female
+88,Ibuprofen 441mg,Common Cold,"Fatigue, Sneezing, Runny nose",5,30,Male
+89,Herbal Cough Syrup 163mg,Fever,"Body ache, High temperature, Chills",5,22,Male
+90,Ginger Extract 131mg,Diarrhea,"Loose stools, Dehydration, Abdominal cramps",5,31,Male
+91,Licorice Lozenges 58mg,Cough,"Throat irritation, Chest discomfort, Dry cough",3.6,39,Male
+92,Herbal Vapour Rub 173mg,Constipation,"Straining, Bloating, Hard stools",5,42,Female
+93,ORS 269mg,Indigestion,"Stomach discomfort, Gas, Bloating",5,35,Male
+94,Lozenges 439mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",4,46,All
+95,Pain Relief Balm 398mg,Fever,"High temperature, Body ache, Chills",3.6,47,Female
+96,Aloe Vera Gel 294mg,Common Cold,"Runny nose, Fatigue, Sneezing",5,27,Female
+97,Paracetamol 177mg,Sore Throat,"Scratchy throat, Dry throat, Painful swallowing",4.2,48,Female
+98,Steam Capsules 157mg,Common Cold,"Sneezing, Runny nose, Fatigue",5,29,Female
+99,Aloe Vera Gel 277mg,Muscle Pain,"Stiffness, Swelling, Soreness",5,37,All
+100,Eucalyptus Oil 328mg,Constipation,"Straining, Hard stools, Bloating",4.1,46,All
+101,Coconut Water Sachets 152mg,Indigestion,"Gas, Bloating, Stomach discomfort",5,48,Male
+102,Probiotic Capsules 221mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",5,28,Male
+103,Menthol Rub 180mg,Muscle Pain,"Stiffness, Soreness, Swelling",3.6,36,Female
+104,Herbal Cough Syrup 122mg,Sore Throat,"Dry throat, Scratchy throat, Painful swallowing",5,47,All
+105,Probiotic Capsules 323mg,Sore Throat,"Painful swallowing, Scratchy throat, Dry throat",5,36,All
+106,Menthol Rub 363mg,Constipation,"Hard stools, Straining, Bloating",5,18,All
+107,ORS 232mg,Diarrhea,"Abdominal cramps, Dehydration, Loose stools",5,29,All
+108,Vitamin C 434mg,Common Cold,"Fatigue, Runny nose, Sneezing",5,45,Male
+109,Calpol 320mg,Indigestion,"Bloating, Stomach discomfort, Gas",3.1,36,All
+110,Steam Capsules 237mg,Indigestion,"Stomach discomfort, Gas, Bloating",5,49,All
+111,Digestive Enzyme 384mg,Constipation,"Bloating, Hard stools, Straining",5,22,Male
+112,Isabgol 248mg,Constipation,"Hard stools, Bloating, Straining",3.6,38,All
+113,Herbal Cough Syrup 356mg,Cough,"Dry cough, Throat irritation, Chest discomfort",3.4,19,All
+114,Zincovit 499mg,Headache,"Light sensitivity, Nausea, Throbbing pain",5,28,All
+115,Probiotic Capsules 62mg,Sore Throat,"Painful swallowing, Scratchy throat, Dry throat",5,24,Female
+116,Ajwain Tablets 51mg,Sore Throat,"Scratchy throat, Painful swallowing, Dry throat",3.8,22,All
+117,Calpol 232mg,Muscle Pain,"Soreness, Swelling, Stiffness",5,40,All
+118,Honey Syrup 440mg,Muscle Pain,"Swelling, Soreness, Stiffness",4.1,21,Male
+119,Calpol 470mg,Muscle Pain,"Swelling, Soreness, Stiffness",5,36,All
+120,Tulsi Drops 415mg,Constipation,"Bloating, Straining, Hard stools",5,40,All
+121,Lozenges 316mg,Sore Throat,"Scratchy throat, Dry throat, Painful swallowing",5,40,Female
+122,Antacid 126mg,Indigestion,"Bloating, Stomach discomfort, Gas",5,50,Female
+123,Herbal Cough Syrup 270mg,Common Cold,"Runny nose, Sneezing, Fatigue",3.6,23,Male
+124,Zincovit 231mg,Common Cold,"Runny nose, Sneezing, Fatigue",4.5,36,All
+125,Eucalyptus Oil 322mg,Indigestion,"Stomach discomfort, Bloating, Gas",3.9,39,Female
+126,Herbal Vapour Rub 140mg,Common Cold,"Runny nose, Sneezing, Fatigue",5,40,Female
+127,Isabgol 318mg,Constipation,"Straining, Bloating, Hard stools",5,40,All
+128,Tulsi Drops 240mg,Common Cold,"Fatigue, Sneezing, Runny nose",5,31,Male
+129,Herbal Vapour Rub 304mg,Common Cold,"Sneezing, Fatigue, Runny nose",5,30,All
+130,Licorice Lozenges 66mg,Constipation,"Straining, Hard stools, Bloating",5,43,All
+131,Steam Capsules 284mg,Constipation,"Bloating, Hard stools, Straining",5,49,All
+132,ORS 341mg,Muscle Pain,"Soreness, Stiffness, Swelling",3.2,48,Female
+133,Isabgol 490mg,Cough,"Throat irritation, Dry cough, Chest discomfort",5,49,Female
+134,Zincovit 158mg,Mild Allergy,"Itchy skin, Sneezing, Watery eyes",5,48,Male
+135,Licorice Lozenges 119mg,Headache,"Nausea, Throbbing pain, Light sensitivity",5,31,Male
+136,Electral 406mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",4.3,32,Female
+137,Lozenges 133mg,Diarrhea,"Dehydration, Abdominal cramps, Loose stools",5,23,Male
+138,Dolo 650 83mg,Fever,"High temperature, Chills, Body ache",3.1,28,All
+139,Calpol 340mg,Common Cold,"Fatigue, Runny nose, Sneezing",5,30,All
+140,Peppermint Oil 326mg,Common Cold,"Fatigue, Sneezing, Runny nose",5,20,All
+141,Vitamin B12 405mg,Fever,"High temperature, Chills, Body ache",3.1,38,Female
+142,Vitamin C 259mg,Constipation,"Bloating, Straining, Hard stools",3.3,21,All
+143,Vitamin C 269mg,Cough,"Throat irritation, Chest discomfort, Dry cough",3.3,33,Female
+144,Menthol Rub 52mg,Cough,"Dry cough, Throat irritation, Chest discomfort",5,30,Female
+145,ORS 340mg,Indigestion,"Bloating, Gas, Stomach discomfort",4.1,50,Female
+146,Calpol 270mg,Cough,"Chest discomfort, Dry cough, Throat irritation",3.6,45,Female
+147,Antacid 409mg,Fever,"High temperature, Body ache, Chills",3.5,50,Male
+148,Multivitamin Syrup 354mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",5,34,All
+149,Zincovit 379mg,Cough,"Chest discomfort, Throat irritation, Dry cough",3.9,44,Male
+150,Probiotic Capsules 291mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",5,48,All
+151,Cinnamon Capsules 279mg,Muscle Pain,"Stiffness, Soreness, Swelling",3.8,33,All
+152,Eucalyptus Oil 61mg,Constipation,"Hard stools, Straining, Bloating",5,19,Female
+153,Pain Relief Balm 120mg,Indigestion,"Bloating, Stomach discomfort, Gas",5,31,Male
+154,Herbal Vapour Rub 433mg,Fever,"High temperature, Body ache, Chills",5,24,Female
+155,Paracetamol 398mg,Fever,"High temperature, Chills, Body ache",4.4,48,Male
+156,Zincovit 226mg,Fever,"High temperature, Chills, Body ache",5,26,All
+157,Coconut Water Sachets 167mg,Diarrhea,"Abdominal cramps, Loose stools, Dehydration",5,38,Female
+158,Licorice Lozenges 406mg,Diarrhea,"Loose stools, Abdominal cramps, Dehydration",5,39,Female
+159,Zincovit 424mg,Sore Throat,"Dry throat, Painful swallowing, Scratchy throat",5,37,All
+160,Ibuprofen 349mg,Constipation,"Straining, Bloating, Hard stools",5,19,Male
+161,Paracetamol 123mg,Sore Throat,"Scratchy throat, Dry throat, Painful swallowing",5,43,All
+162,Chamomile Tea 263mg,Diarrhea,"Abdominal cramps, Dehydration, Loose stools",5,43,Male
+163,Aloe Vera Gel 121mg,Common Cold,"Sneezing, Fatigue, Runny nose",3.7,33,Male
+164,Licorice Lozenges 269mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",5,28,Female
+165,Cinnamon Capsules 186mg,Cough,"Dry cough, Chest discomfort, Throat irritation",5,42,All
+166,Ginger Extract 419mg,Fever,"Body ache, Chills, High temperature",5,39,Male
+167,Calpol 356mg,Headache,"Light sensitivity, Nausea, Throbbing pain",5,22,Male
+168,Coconut Water Sachets 120mg,Muscle Pain,"Soreness, Stiffness, Swelling",5,38,All
+169,Antacid 191mg,Indigestion,"Gas, Bloating, Stomach discomfort",4.3,35,Male
+170,Herbal Vapour Rub 446mg,Common Cold,"Sneezing, Runny nose, Fatigue",5,22,Female
+171,Eucalyptus Oil 468mg,Sore Throat,"Dry throat, Scratchy throat, Painful swallowing",5,33,Female
+172,Ibuprofen 60mg,Diarrhea,"Abdominal cramps, Dehydration, Loose stools",3.4,20,Female
+173,Cinnamon Capsules 55mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",5,27,All
+174,Paracetamol 283mg,Mild Allergy,"Itchy skin, Watery eyes, Sneezing",5,40,Female
+175,Peppermint Oil 278mg,Diarrhea,"Dehydration, Loose stools, Abdominal cramps",5,32,All
+176,Tulsi Tea 237mg,Common Cold,"Fatigue, Sneezing, Runny nose",3.3,47,Male
+177,Cinnamon Capsules 495mg,Common Cold,"Runny nose, Fatigue, Sneezing",5,22,All
+178,Steam Capsules 340mg,Fever,"Body ache, High temperature, Chills",5,25,All
+179,Vitamin C 443mg,Indigestion,"Stomach discomfort, Bloating, Gas",5,44,Female
+180,Vitamin C 286mg,Indigestion,"Gas, Stomach discomfort, Bloating",5,50,Male
+181,Peppermint Oil 221mg,Cough,"Dry cough, Chest discomfort, Throat irritation",4.2,46,Male
+182,Multivitamin Syrup 175mg,Indigestion,"Bloating, Stomach discomfort, Gas",5,34,All
+183,Aloe Vera Gel 231mg,Fever,"High temperature, Body ache, Chills",5,24,All
+184,Menthol Rub 55mg,Headache,"Nausea, Throbbing pain, Light sensitivity",5,32,All
+185,Dolo 650 178mg,Common Cold,"Fatigue, Runny nose, Sneezing",5,23,Male
+186,Licorice Lozenges 152mg,Constipation,"Hard stools, Bloating, Straining",5,36,All
+187,Paracetamol 171mg,Common Cold,"Runny nose, Sneezing, Fatigue",5,36,Male
+188,Tulsi Drops 274mg,Constipation,"Hard stools, Straining, Bloating",5,27,All
+189,Multivitamin Syrup 491mg,Sore Throat,"Dry throat, Scratchy throat, Painful swallowing",5,45,Female
+190,ORS 302mg,Cough,"Dry cough, Throat irritation, Chest discomfort",3.2,28,Male
+191,Tulsi Tea 477mg,Diarrhea,"Dehydration, Loose stools, Abdominal cramps",3.8,49,Male
+192,Zincovit 169mg,Muscle Pain,"Swelling, Soreness, Stiffness",5,30,All
+193,Cetirizine 479mg,Sore Throat,"Painful swallowing, Dry throat, Scratchy throat",5,20,Male
+194,Honey Syrup 226mg,Headache,"Nausea, Throbbing pain, Light sensitivity",5,32,Female
+195,ORS 340mg,Sore Throat,"Painful swallowing, Dry throat, Scratchy throat",4.3,45,All
+196,Electral 79mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",5,23,Female
+197,Menthol Rub 52mg,Sore Throat,"Dry throat, Painful swallowing, Scratchy throat",5,46,All
+198,Antacid 413mg,Headache,"Throbbing pain, Light sensitivity, Nausea",5,50,Female
+199,Honey Syrup 281mg,Cough,"Throat irritation, Dry cough, Chest discomfort",5,35,All
+200,Zincovit 300mg,Cough,"Dry cough, Throat irritation, Chest discomfort",3.2,32,Male
+201,Zincovit 326mg,Sore Throat,"Dry throat, Scratchy throat, Painful swallowing",3.8,18,Female
+202,Tulsi Tea 475mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",5,18,All
+203,Peppermint Oil 56mg,Mild Allergy,"Itchy skin, Watery eyes, Sneezing",5,25,Female
+204,Tulsi Tea 211mg,Muscle Pain,"Swelling, Stiffness, Soreness",5,44,All
+205,Probiotic Capsules 175mg,Muscle Pain,"Stiffness, Swelling, Soreness",5,25,All
+206,Calpol 197mg,Cough,"Throat irritation, Chest discomfort, Dry cough",5,34,Male
+207,Isabgol 443mg,Fever,"High temperature, Chills, Body ache",5,29,Male
+208,Herbal Cough Syrup 295mg,Fever,"Chills, High temperature, Body ache",5,29,All
+209,Calpol 258mg,Cough,"Dry cough, Throat irritation, Chest discomfort",5,30,Male
+210,Lozenges 456mg,Cough,"Dry cough, Throat irritation, Chest discomfort",5,19,Male
+211,Multivitamin Syrup 359mg,Fever,"Chills, Body ache, High temperature",5,36,All
+212,ORS 319mg,Sore Throat,"Painful swallowing, Scratchy throat, Dry throat",5,37,All
+213,Aloe Vera Gel 86mg,Muscle Pain,"Stiffness, Swelling, Soreness",5,26,Female
+214,Electral 433mg,Headache,"Light sensitivity, Throbbing pain, Nausea",5,32,All
+215,Ginger Extract 224mg,Indigestion,"Stomach discomfort, Bloating, Gas",5,32,Female
+216,Coconut Water Sachets 314mg,Constipation,"Hard stools, Bloating, Straining",5,28,All
+217,Dolo 650 472mg,Muscle Pain,"Stiffness, Swelling, Soreness",5,19,Male
+218,Electral 332mg,Common Cold,"Fatigue, Runny nose, Sneezing",4.1,33,All
+219,Menthol Rub 367mg,Cough,"Throat irritation, Chest discomfort, Dry cough",3.1,32,All
+220,Peppermint Oil 279mg,Muscle Pain,"Soreness, Swelling, Stiffness",3.1,38,Female
+221,Eucalyptus Oil 274mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,28,All
+222,Dolo 650 415mg,Constipation,"Straining, Bloating, Hard stools",5,43,Female
+223,Cetirizine 445mg,Fever,"High temperature, Body ache, Chills",3.9,26,All
+224,Pain Relief Balm 274mg,Sore Throat,"Scratchy throat, Painful swallowing, Dry throat",3.3,47,Male
+225,Probiotic Capsules 71mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",3.6,30,All
+226,Probiotic Capsules 88mg,Sore Throat,"Dry throat, Scratchy throat, Painful swallowing",4.2,21,All
+227,Paracetamol 460mg,Constipation,"Straining, Bloating, Hard stools",3.8,31,Male
+228,Probiotic Capsules 416mg,Indigestion,"Stomach discomfort, Bloating, Gas",5,22,Male
+229,Electral 329mg,Muscle Pain,"Soreness, Stiffness, Swelling",5,24,Male
+230,Peppermint Oil 158mg,Constipation,"Bloating, Hard stools, Straining",5,27,All
+231,Pain Relief Balm 440mg,Muscle Pain,"Soreness, Stiffness, Swelling",5,27,All
+232,Coconut Water Sachets 63mg,Fever,"Chills, High temperature, Body ache",5,18,All
+233,Eucalyptus Oil 367mg,Fever,"Chills, Body ache, High temperature",5,49,All
+234,Pain Relief Balm 67mg,Headache,"Throbbing pain, Nausea, Light sensitivity",3.4,27,All
+235,Herbal Cough Syrup 157mg,Headache,"Light sensitivity, Throbbing pain, Nausea",5,44,Male
+236,Menthol Rub 111mg,Common Cold,"Fatigue, Sneezing, Runny nose",5,23,All
+237,Herbal Cough Syrup 357mg,Sore Throat,"Painful swallowing, Scratchy throat, Dry throat",5,36,Male
+238,Licorice Lozenges 384mg,Headache,"Light sensitivity, Throbbing pain, Nausea",5,35,All
+239,Cinnamon Capsules 238mg,Fever,"Chills, Body ache, High temperature",5,21,All
+240,Ajwain Tablets 155mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,39,Female
+241,ORS 134mg,Common Cold,"Runny nose, Sneezing, Fatigue",3.8,35,Male
+242,Paracetamol 361mg,Sore Throat,"Scratchy throat, Dry throat, Painful swallowing",5,50,Male
+243,Herbal Vapour Rub 227mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,19,Male
+244,Vitamin B12 241mg,Diarrhea,"Loose stools, Dehydration, Abdominal cramps",4.2,50,Female
+245,Multivitamin Syrup 331mg,Indigestion,"Gas, Stomach discomfort, Bloating",5,50,Female
+246,Tulsi Drops 378mg,Cough,"Chest discomfort, Throat irritation, Dry cough",5,34,All
+247,Tulsi Tea 411mg,Sore Throat,"Painful swallowing, Scratchy throat, Dry throat",5,38,All
+248,Herbal Cough Syrup 416mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",3.9,34,Female
+249,Tulsi Tea 322mg,Sore Throat,"Dry throat, Painful swallowing, Scratchy throat",3.9,42,Male
+250,Cinnamon Capsules 91mg,Common Cold,"Sneezing, Fatigue, Runny nose",5,33,Male
+251,Chamomile Tea 64mg,Common Cold,"Runny nose, Fatigue, Sneezing",5,28,Female
+252,Paracetamol 103mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",5,31,Male
+253,Licorice Lozenges 245mg,Common Cold,"Sneezing, Fatigue, Runny nose",5,29,Female
+254,Lozenges 285mg,Common Cold,"Sneezing, Fatigue, Runny nose",5,38,All
+255,Saline Nasal Spray 449mg,Diarrhea,"Loose stools, Dehydration, Abdominal cramps",5,33,Female
+256,Dolo 650 81mg,Sore Throat,"Scratchy throat, Painful swallowing, Dry throat",5,46,All
+257,Zincovit 138mg,Muscle Pain,"Soreness, Stiffness, Swelling",5,36,All
+258,Ibuprofen 55mg,Fever,"High temperature, Chills, Body ache",5,19,Male
+259,Paracetamol 386mg,Diarrhea,"Abdominal cramps, Loose stools, Dehydration",5,50,Female
+260,ORS 284mg,Indigestion,"Stomach discomfort, Bloating, Gas",3.5,42,All
+261,Steam Capsules 414mg,Muscle Pain,"Swelling, Stiffness, Soreness",4.2,46,Female
+262,Antacid 319mg,Sore Throat,"Painful swallowing, Scratchy throat, Dry throat",5,35,Male
+263,Eucalyptus Oil 459mg,Indigestion,"Gas, Bloating, Stomach discomfort",4.1,19,Female
+264,Vitamin C 335mg,Constipation,"Hard stools, Straining, Bloating",5,27,Female
+265,Herbal Vapour Rub 342mg,Constipation,"Hard stools, Straining, Bloating",5,26,All
+266,Herbal Cough Syrup 297mg,Headache,"Light sensitivity, Nausea, Throbbing pain",5,50,All
+267,Cinnamon Capsules 309mg,Sore Throat,"Painful swallowing, Dry throat, Scratchy throat",5,29,Female
+268,Vitamin C 222mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,41,All
+269,Ginger Extract 109mg,Common Cold,"Runny nose, Fatigue, Sneezing",5,45,Female
+270,Paracetamol 248mg,Common Cold,"Fatigue, Runny nose, Sneezing",4.2,42,Female
+271,Ibuprofen 303mg,Diarrhea,"Abdominal cramps, Loose stools, Dehydration",5,44,All
+272,Zincovit 438mg,Constipation,"Bloating, Hard stools, Straining",3.1,44,Male
+273,Ibuprofen 300mg,Common Cold,"Runny nose, Fatigue, Sneezing",5,37,Female
+274,ORS 470mg,Cough,"Chest discomfort, Throat irritation, Dry cough",5,20,Female
+275,Vitamin B12 385mg,Sore Throat,"Painful swallowing, Dry throat, Scratchy throat",3.1,34,All
+276,Multivitamin Syrup 85mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",5,41,Male
+277,Chamomile Tea 424mg,Sore Throat,"Painful swallowing, Dry throat, Scratchy throat",5,28,Male
+278,Coconut Water Sachets 104mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",5,42,All
+279,Multivitamin Syrup 492mg,Muscle Pain,"Stiffness, Swelling, Soreness",5,31,Male
+280,Dolo 650 456mg,Headache,"Throbbing pain, Nausea, Light sensitivity",5,39,Female
+281,Aloe Vera Gel 456mg,Sore Throat,"Scratchy throat, Painful swallowing, Dry throat",3.7,35,All
+282,Pain Relief Balm 387mg,Common Cold,"Runny nose, Sneezing, Fatigue",5,40,Male
+283,Peppermint Oil 429mg,Fever,"Chills, High temperature, Body ache",5,20,Female
+284,Tulsi Drops 371mg,Indigestion,"Gas, Stomach discomfort, Bloating",5,21,All
+285,Tulsi Tea 101mg,Constipation,"Bloating, Straining, Hard stools",5,18,Female
+286,Vitamin C 200mg,Cough,"Dry cough, Throat irritation, Chest discomfort",5,33,All
+287,Herbal Vapour Rub 450mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",5,37,Male
+288,Ajwain Tablets 370mg,Diarrhea,"Loose stools, Abdominal cramps, Dehydration",4.2,36,All
+289,Zincovit 73mg,Muscle Pain,"Soreness, Swelling, Stiffness",5,39,Female
+290,Digestive Enzyme 324mg,Mild Allergy,"Itchy skin, Sneezing, Watery eyes",5,27,Male
+291,Eucalyptus Oil 440mg,Sore Throat,"Dry throat, Painful swallowing, Scratchy throat",5,34,Female
+292,Isabgol 457mg,Cough,"Chest discomfort, Dry cough, Throat irritation",5,32,Male
+293,Vitamin B12 486mg,Common Cold,"Runny nose, Fatigue, Sneezing",5,38,Female
+294,Aloe Vera Gel 225mg,Constipation,"Hard stools, Bloating, Straining",5,35,All
+295,Ajwain Tablets 455mg,Indigestion,"Stomach discomfort, Bloating, Gas",5,22,All
+296,Electral 50mg,Headache,"Throbbing pain, Nausea, Light sensitivity",3.3,42,Female
+297,Probiotic Capsules 422mg,Common Cold,"Fatigue, Runny nose, Sneezing",5,25,Female
+298,Isabgol 56mg,Muscle Pain,"Stiffness, Swelling, Soreness",4.1,35,All
+299,Paracetamol 162mg,Indigestion,"Stomach discomfort, Bloating, Gas",4.3,49,Male
+300,Dolo 650 226mg,Muscle Pain,"Soreness, Swelling, Stiffness",5,32,All
+301,Saline Nasal Spray 342mg,Fever,"Body ache, Chills, High temperature",5,49,Male
+302,Dolo 650 485mg,Cough,"Throat irritation, Dry cough, Chest discomfort",5,45,Male
+303,Steam Capsules 391mg,Headache,"Nausea, Light sensitivity, Throbbing pain",4.2,47,Female
+304,Herbal Vapour Rub 185mg,Constipation,"Straining, Bloating, Hard stools",5,36,Female
+305,Herbal Vapour Rub 393mg,Indigestion,"Stomach discomfort, Bloating, Gas",5,33,Female
+306,Vitamin B12 228mg,Muscle Pain,"Swelling, Stiffness, Soreness",5,28,Female
+307,Chamomile Tea 309mg,Constipation,"Hard stools, Bloating, Straining",5,39,Male
+308,Zincovit 274mg,Cough,"Chest discomfort, Dry cough, Throat irritation",4.3,24,Female
+309,Tulsi Tea 428mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,22,Male
+310,Aloe Vera Gel 76mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",5,27,Male
+311,Saline Nasal Spray 436mg,Indigestion,"Bloating, Stomach discomfort, Gas",5,23,All
+312,Vitamin C 393mg,Headache,"Light sensitivity, Throbbing pain, Nausea",5,47,Male
+313,Multivitamin Syrup 111mg,Muscle Pain,"Swelling, Soreness, Stiffness",5,34,Male
+314,Lozenges 189mg,Common Cold,"Sneezing, Runny nose, Fatigue",5,26,Female
+315,Licorice Lozenges 331mg,Sore Throat,"Scratchy throat, Painful swallowing, Dry throat",5,43,Male
+316,Chamomile Tea 67mg,Cough,"Chest discomfort, Dry cough, Throat irritation",5,27,Female
+317,ORS 227mg,Fever,"Body ache, Chills, High temperature",5,20,Male
+318,Probiotic Capsules 385mg,Indigestion,"Gas, Stomach discomfort, Bloating",5,27,Male
+319,Electral 469mg,Fever,"High temperature, Body ache, Chills",3.9,44,All
+320,Menthol Rub 411mg,Diarrhea,"Abdominal cramps, Loose stools, Dehydration",5,21,All
+321,Chamomile Tea 455mg,Indigestion,"Gas, Stomach discomfort, Bloating",5,18,All
+322,Multivitamin Syrup 161mg,Sore Throat,"Dry throat, Scratchy throat, Painful swallowing",5,28,All
+323,Zincovit 94mg,Indigestion,"Stomach discomfort, Gas, Bloating",3.1,18,All
+324,Pain Relief Balm 404mg,Constipation,"Hard stools, Straining, Bloating",5,20,Male
+325,Herbal Cough Syrup 96mg,Indigestion,"Bloating, Gas, Stomach discomfort",5,33,All
+326,Chamomile Tea 54mg,Fever,"High temperature, Chills, Body ache",4.3,37,Female
+327,Dolo 650 465mg,Constipation,"Bloating, Hard stools, Straining",5,29,Male
+328,Ginger Extract 237mg,Diarrhea,"Dehydration, Loose stools, Abdominal cramps",5,34,Male
+329,Calpol 394mg,Headache,"Throbbing pain, Light sensitivity, Nausea",4.5,41,All
+330,Licorice Lozenges 383mg,Common Cold,"Fatigue, Sneezing, Runny nose",5,21,Female
+331,ORS 271mg,Common Cold,"Fatigue, Runny nose, Sneezing",3.6,41,Male
+332,Cetirizine 371mg,Constipation,"Hard stools, Straining, Bloating",5,40,All
+333,Herbal Vapour Rub 215mg,Constipation,"Bloating, Straining, Hard stools",5,26,Female
+334,Honey Syrup 272mg,Cough,"Throat irritation, Chest discomfort, Dry cough",5,50,Male
+335,Probiotic Capsules 234mg,Muscle Pain,"Soreness, Stiffness, Swelling",5,44,Female
+336,Isabgol 371mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",5,30,Male
+337,Ginger Extract 192mg,Common Cold,"Fatigue, Runny nose, Sneezing",5,40,Male
+338,Coconut Water Sachets 476mg,Common Cold,"Fatigue, Sneezing, Runny nose",3.5,23,Female
+339,Peppermint Oil 321mg,Sore Throat,"Painful swallowing, Dry throat, Scratchy throat",5,19,Female
+340,Herbal Cough Syrup 135mg,Sore Throat,"Dry throat, Painful swallowing, Scratchy throat",5,48,Male
+341,Aloe Vera Gel 179mg,Muscle Pain,"Swelling, Soreness, Stiffness",5,26,Male
+342,Herbal Vapour Rub 228mg,Cough,"Chest discomfort, Throat irritation, Dry cough",3.4,28,Female
+343,Peppermint Oil 104mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",3.7,27,Female
+344,Ibuprofen 216mg,Sore Throat,"Scratchy throat, Painful swallowing, Dry throat",5,36,All
+345,Ibuprofen 104mg,Headache,"Nausea, Throbbing pain, Light sensitivity",5,37,All
+346,Herbal Cough Syrup 100mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",3.1,36,Male
+347,Ibuprofen 407mg,Diarrhea,"Abdominal cramps, Loose stools, Dehydration",5,41,All
+348,Electral 299mg,Fever,"High temperature, Body ache, Chills",5,34,All
+349,Coconut Water Sachets 223mg,Headache,"Throbbing pain, Light sensitivity, Nausea",5,32,All
+350,Eucalyptus Oil 128mg,Diarrhea,"Loose stools, Dehydration, Abdominal cramps",5,29,All
+351,Calpol 270mg,Common Cold,"Runny nose, Fatigue, Sneezing",5,48,Male
+352,Paracetamol 187mg,Cough,"Throat irritation, Dry cough, Chest discomfort",3.6,40,Female
+353,Licorice Lozenges 113mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",3.5,31,Female
+354,Isabgol 430mg,Indigestion,"Gas, Stomach discomfort, Bloating",3.3,49,Female
+355,Chamomile Tea 448mg,Common Cold,"Sneezing, Runny nose, Fatigue",5,41,Male
+356,Ibuprofen 147mg,Cough,"Dry cough, Throat irritation, Chest discomfort",3.8,50,Male
+357,Ginger Extract 58mg,Diarrhea,"Loose stools, Abdominal cramps, Dehydration",5,50,All
+358,Chamomile Tea 306mg,Muscle Pain,"Swelling, Soreness, Stiffness",5,43,All
+359,Cetirizine 357mg,Cough,"Chest discomfort, Dry cough, Throat irritation",3.9,36,Male
+360,Vitamin B12 454mg,Constipation,"Bloating, Hard stools, Straining",5,47,Female
+361,Vitamin B12 121mg,Cough,"Chest discomfort, Dry cough, Throat irritation",4,36,Male
+362,Coconut Water Sachets 88mg,Indigestion,"Gas, Bloating, Stomach discomfort",5,44,Male
+363,Paracetamol 346mg,Constipation,"Bloating, Straining, Hard stools",3.6,27,Male
+364,Multivitamin Syrup 101mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",5,44,Female
+365,Lozenges 390mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",5,26,Male
+366,Lozenges 134mg,Fever,"High temperature, Body ache, Chills",5,34,Female
+367,Digestive Enzyme 490mg,Fever,"Body ache, Chills, High temperature",5,49,Male
+368,Ibuprofen 411mg,Diarrhea,"Loose stools, Abdominal cramps, Dehydration",5,45,All
+369,Pain Relief Balm 59mg,Indigestion,"Gas, Stomach discomfort, Bloating",5,44,Female
+370,Probiotic Capsules 386mg,Sore Throat,"Scratchy throat, Dry throat, Painful swallowing",5,43,All
+371,Probiotic Capsules 99mg,Diarrhea,"Loose stools, Dehydration, Abdominal cramps",5,48,Female
+372,Vitamin B12 374mg,Cough,"Throat irritation, Chest discomfort, Dry cough",5,39,All
+373,Chamomile Tea 119mg,Indigestion,"Stomach discomfort, Bloating, Gas",5,43,Male
+374,Probiotic Capsules 310mg,Sore Throat,"Scratchy throat, Dry throat, Painful swallowing",3.4,28,Male
+375,Cetirizine 243mg,Headache,"Throbbing pain, Nausea, Light sensitivity",5,33,Male
+376,Licorice Lozenges 486mg,Mild Allergy,"Itchy skin, Watery eyes, Sneezing",5,45,All
+377,Herbal Cough Syrup 172mg,Constipation,"Bloating, Hard stools, Straining",5,19,Male
+378,Isabgol 174mg,Sore Throat,"Painful swallowing, Dry throat, Scratchy throat",5,30,Female
+379,Antacid 343mg,Cough,"Dry cough, Throat irritation, Chest discomfort",5,31,All
+380,Ginger Extract 96mg,Diarrhea,"Dehydration, Loose stools, Abdominal cramps",4.3,22,Female
+381,Pain Relief Balm 375mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",5,22,Male
+382,Isabgol 462mg,Diarrhea,"Abdominal cramps, Dehydration, Loose stools",5,44,All
+383,Probiotic Capsules 184mg,Fever,"High temperature, Body ache, Chills",5,26,Female
+384,Vitamin B12 380mg,Muscle Pain,"Soreness, Swelling, Stiffness",5,19,Male
+385,Multivitamin Syrup 303mg,Indigestion,"Gas, Bloating, Stomach discomfort",5,39,All
+386,Saline Nasal Spray 405mg,Common Cold,"Fatigue, Runny nose, Sneezing",5,29,Female
+387,Paracetamol 421mg,Cough,"Throat irritation, Dry cough, Chest discomfort",5,30,Female
+388,Ginger Extract 124mg,Diarrhea,"Loose stools, Abdominal cramps, Dehydration",5,19,Male
+389,Zincovit 136mg,Diarrhea,"Loose stools, Dehydration, Abdominal cramps",3.3,31,All
+390,Paracetamol 289mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",3.3,45,Male
+391,Multivitamin Syrup 345mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",5,46,All
+392,Tulsi Drops 250mg,Sore Throat,"Dry throat, Scratchy throat, Painful swallowing",5,22,Female
+393,Multivitamin Syrup 233mg,Headache,"Light sensitivity, Throbbing pain, Nausea",5,32,Male
+394,Probiotic Capsules 439mg,Sore Throat,"Scratchy throat, Painful swallowing, Dry throat",5,43,Male
+395,Pain Relief Balm 457mg,Cough,"Throat irritation, Chest discomfort, Dry cough",5,49,Female
+396,Cetirizine 417mg,Headache,"Light sensitivity, Throbbing pain, Nausea",5,44,Male
+397,Menthol Rub 383mg,Indigestion,"Stomach discomfort, Gas, Bloating",5,18,Female
+398,Tulsi Tea 465mg,Mild Allergy,"Itchy skin, Sneezing, Watery eyes",4.2,35,Female
+399,Aloe Vera Gel 259mg,Indigestion,"Stomach discomfort, Gas, Bloating",5,40,All
+400,Calpol 264mg,Sore Throat,"Scratchy throat, Dry throat, Painful swallowing",4,25,Female
+401,ORS 389mg,Headache,"Throbbing pain, Nausea, Light sensitivity",5,28,All
+402,Eucalyptus Oil 152mg,Fever,"Chills, Body ache, High temperature",5,41,Male
+403,Herbal Cough Syrup 200mg,Common Cold,"Runny nose, Sneezing, Fatigue",5,34,Male
+404,Cinnamon Capsules 482mg,Cough,"Chest discomfort, Dry cough, Throat irritation",5,48,Female
+405,Licorice Lozenges 133mg,Cough,"Dry cough, Throat irritation, Chest discomfort",5,38,All
+406,Tulsi Drops 80mg,Muscle Pain,"Stiffness, Swelling, Soreness",5,29,Female
+407,Honey Syrup 495mg,Common Cold,"Sneezing, Fatigue, Runny nose",5,21,Female
+408,ORS 333mg,Sore Throat,"Painful swallowing, Dry throat, Scratchy throat",3.4,22,Male
+409,Licorice Lozenges 429mg,Diarrhea,"Loose stools, Dehydration, Abdominal cramps",3.8,25,All
+410,Tulsi Tea 153mg,Fever,"Chills, High temperature, Body ache",3.5,18,Male
+411,Electral 243mg,Cough,"Throat irritation, Chest discomfort, Dry cough",5,21,Female
+412,Vitamin B12 434mg,Common Cold,"Runny nose, Sneezing, Fatigue",5,29,Male
+413,Chamomile Tea 292mg,Diarrhea,"Loose stools, Dehydration, Abdominal cramps",4.1,46,All
+414,Tulsi Tea 65mg,Cough,"Throat irritation, Chest discomfort, Dry cough",5,25,Female
+415,Eucalyptus Oil 85mg,Diarrhea,"Loose stools, Abdominal cramps, Dehydration",5,41,All
+416,Probiotic Capsules 301mg,Constipation,"Straining, Bloating, Hard stools",5,41,Female
+417,Calpol 232mg,Cough,"Dry cough, Chest discomfort, Throat irritation",5,35,Female
+418,Cetirizine 373mg,Sore Throat,"Dry throat, Painful swallowing, Scratchy throat",3.8,38,All
+419,Ginger Extract 219mg,Sore Throat,"Dry throat, Scratchy throat, Painful swallowing",5,50,All
+420,Licorice Lozenges 321mg,Common Cold,"Sneezing, Runny nose, Fatigue",5,27,All
+421,Dolo 650 483mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,34,Female
+422,Licorice Lozenges 254mg,Headache,"Nausea, Light sensitivity, Throbbing pain",5,38,Male
+423,Cetirizine 347mg,Fever,"Body ache, High temperature, Chills",5,38,Male
+424,Peppermint Oil 215mg,Indigestion,"Gas, Stomach discomfort, Bloating",3.6,18,Male
+425,Menthol Rub 237mg,Sore Throat,"Painful swallowing, Scratchy throat, Dry throat",5,44,Female
+426,Dolo 650 166mg,Diarrhea,"Dehydration, Loose stools, Abdominal cramps",5,18,All
+427,Isabgol 172mg,Indigestion,"Stomach discomfort, Gas, Bloating",5,32,All
+428,Electral 96mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",5,25,All
+429,Cetirizine 178mg,Common Cold,"Runny nose, Sneezing, Fatigue",5,26,All
+430,Probiotic Capsules 284mg,Common Cold,"Runny nose, Sneezing, Fatigue",5,37,Male
+431,Electral 482mg,Headache,"Light sensitivity, Throbbing pain, Nausea",5,33,Female
+432,Probiotic Capsules 389mg,Fever,"Chills, High temperature, Body ache",5,44,All
+433,Vitamin B12 170mg,Diarrhea,"Abdominal cramps, Dehydration, Loose stools",4.1,39,All
+434,Saline Nasal Spray 297mg,Diarrhea,"Abdominal cramps, Loose stools, Dehydration",3.1,37,All
+435,Probiotic Capsules 471mg,Fever,"Body ache, High temperature, Chills",3.5,34,Female
+436,Peppermint Oil 239mg,Sore Throat,"Scratchy throat, Dry throat, Painful swallowing",5,33,Female
+437,Chamomile Tea 121mg,Constipation,"Straining, Hard stools, Bloating",3.8,38,All
+438,Calpol 281mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",5,22,All
+439,Aloe Vera Gel 330mg,Indigestion,"Bloating, Gas, Stomach discomfort",5,26,Female
+440,Cinnamon Capsules 111mg,Cough,"Chest discomfort, Dry cough, Throat irritation",5,37,Male
+441,Vitamin B12 241mg,Headache,"Nausea, Light sensitivity, Throbbing pain",5,23,Female
+442,Ajwain Tablets 414mg,Common Cold,"Sneezing, Fatigue, Runny nose",5,23,Male
+443,Vitamin C 143mg,Indigestion,"Bloating, Gas, Stomach discomfort",5,18,Male
+444,Electral 483mg,Sore Throat,"Painful swallowing, Scratchy throat, Dry throat",5,38,Female
+445,Licorice Lozenges 296mg,Fever,"High temperature, Body ache, Chills",4,40,Male
+446,Ginger Extract 118mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",5,39,Male
+447,Chamomile Tea 60mg,Muscle Pain,"Soreness, Swelling, Stiffness",5,28,Male
+448,Electral 409mg,Muscle Pain,"Soreness, Swelling, Stiffness",5,29,All
+449,Steam Capsules 256mg,Common Cold,"Sneezing, Runny nose, Fatigue",5,49,All
+450,Zincovit 411mg,Cough,"Throat irritation, Chest discomfort, Dry cough",5,37,Female
+451,Pain Relief Balm 310mg,Mild Allergy,"Itchy skin, Sneezing, Watery eyes",5,28,Male
+452,Steam Capsules 355mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",5,23,Male
+453,Honey Syrup 111mg,Cough,"Chest discomfort, Dry cough, Throat irritation",5,39,Male
+454,Calpol 401mg,Diarrhea,"Dehydration, Abdominal cramps, Loose stools",5,35,Male
+455,Dolo 650 436mg,Sore Throat,"Dry throat, Scratchy throat, Painful swallowing",5,38,Female
+456,Herbal Vapour Rub 275mg,Constipation,"Hard stools, Straining, Bloating",5,44,All
+457,Paracetamol 106mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",5,34,Male
+458,Vitamin B12 310mg,Fever,"High temperature, Chills, Body ache",5,26,Male
+459,Menthol Rub 483mg,Indigestion,"Gas, Bloating, Stomach discomfort",5,37,All
+460,Vitamin C 482mg,Diarrhea,"Abdominal cramps, Loose stools, Dehydration",5,49,Male
+461,Pain Relief Balm 484mg,Diarrhea,"Dehydration, Loose stools, Abdominal cramps",5,21,All
+462,Calpol 307mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",5,49,Female
+463,Isabgol 477mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",5,29,Male
+464,Vitamin B12 421mg,Cough,"Dry cough, Chest discomfort, Throat irritation",5,23,All
+465,Steam Capsules 423mg,Fever,"High temperature, Body ache, Chills",5,41,Female
+466,Zincovit 489mg,Cough,"Chest discomfort, Dry cough, Throat irritation",5,19,All
+467,Multivitamin Syrup 104mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",5,24,All
+468,Pain Relief Balm 72mg,Constipation,"Straining, Bloating, Hard stools",5,47,Male
+469,Licorice Lozenges 347mg,Muscle Pain,"Soreness, Swelling, Stiffness",5,35,Female
+470,Honey Syrup 332mg,Common Cold,"Sneezing, Fatigue, Runny nose",5,20,Male
+471,Herbal Cough Syrup 189mg,Headache,"Nausea, Light sensitivity, Throbbing pain",5,40,Female
+472,Saline Nasal Spray 280mg,Cough,"Throat irritation, Chest discomfort, Dry cough",3.3,39,All
+473,Eucalyptus Oil 96mg,Cough,"Chest discomfort, Dry cough, Throat irritation",5,41,All
+474,Vitamin C 113mg,Headache,"Light sensitivity, Nausea, Throbbing pain",5,28,All
+475,Honey Syrup 127mg,Muscle Pain,"Soreness, Swelling, Stiffness",4.2,24,Male
+476,Paracetamol 80mg,Cough,"Dry cough, Chest discomfort, Throat irritation",5,38,All
+477,Herbal Cough Syrup 245mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",5,23,Male
+478,ORS 233mg,Common Cold,"Sneezing, Runny nose, Fatigue",5,50,All
+479,Eucalyptus Oil 159mg,Fever,"Chills, High temperature, Body ache",3.5,21,All
+480,Probiotic Capsules 161mg,Headache,"Nausea, Throbbing pain, Light sensitivity",5,31,Male
+481,Ajwain Tablets 417mg,Constipation,"Straining, Hard stools, Bloating",5,32,All
+482,Coconut Water Sachets 474mg,Common Cold,"Fatigue, Sneezing, Runny nose",5,20,All
+483,Tulsi Drops 374mg,Cough,"Dry cough, Chest discomfort, Throat irritation",5,40,All
+484,Ibuprofen 261mg,Mild Allergy,"Itchy skin, Sneezing, Watery eyes",5,41,Female
+485,Multivitamin Syrup 239mg,Fever,"Chills, Body ache, High temperature",5,46,All
+486,Herbal Cough Syrup 351mg,Diarrhea,"Dehydration, Loose stools, Abdominal cramps",3.2,45,Female
+487,Probiotic Capsules 457mg,Diarrhea,"Dehydration, Loose stools, Abdominal cramps",5,33,All
+488,Paracetamol 404mg,Diarrhea,"Abdominal cramps, Dehydration, Loose stools",5,22,All
+489,Dolo 650 247mg,Constipation,"Straining, Hard stools, Bloating",5,43,Female
+490,Tulsi Tea 348mg,Diarrhea,"Dehydration, Abdominal cramps, Loose stools",3.7,29,All
+491,Honey Syrup 185mg,Muscle Pain,"Swelling, Soreness, Stiffness",5,20,All
+492,Antacid 61mg,Common Cold,"Fatigue, Sneezing, Runny nose",3.1,31,All
+493,Herbal Cough Syrup 79mg,Constipation,"Bloating, Straining, Hard stools",5,42,Male
+494,Cinnamon Capsules 299mg,Cough,"Throat irritation, Chest discomfort, Dry cough",5,34,Female
+495,Eucalyptus Oil 177mg,Constipation,"Bloating, Hard stools, Straining",3.4,26,Female
+496,Licorice Lozenges 210mg,Indigestion,"Stomach discomfort, Bloating, Gas",5,46,Female
+497,Pain Relief Balm 358mg,Muscle Pain,"Soreness, Swelling, Stiffness",5,32,Female
+498,Antacid 346mg,Constipation,"Straining, Bloating, Hard stools",5,25,All
+499,Antacid 497mg,Constipation,"Bloating, Hard stools, Straining",5,20,Male
+500,Eucalyptus Oil 241mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,37,Female
+501,Lozenges 280mg,Cough,"Dry cough, Throat irritation, Chest discomfort",3.6,31,Male
+502,Licorice Lozenges 345mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,20,Male
+503,Peppermint Oil 162mg,Fever,"Chills, High temperature, Body ache",5,47,Female
+504,Vitamin C 265mg,Sore Throat,"Scratchy throat, Painful swallowing, Dry throat",5,40,All
+505,Aloe Vera Gel 262mg,Constipation,"Hard stools, Bloating, Straining",5,45,Male
+506,Tulsi Drops 370mg,Indigestion,"Stomach discomfort, Gas, Bloating",3.8,46,All
+507,Probiotic Capsules 245mg,Muscle Pain,"Soreness, Swelling, Stiffness",5,18,Female
+508,Herbal Vapour Rub 235mg,Constipation,"Bloating, Straining, Hard stools",5,37,Female
+509,Herbal Vapour Rub 402mg,Cough,"Chest discomfort, Throat irritation, Dry cough",3.1,33,All
+510,Honey Syrup 179mg,Sore Throat,"Scratchy throat, Painful swallowing, Dry throat",3.9,27,All
+511,Herbal Vapour Rub 471mg,Diarrhea,"Loose stools, Dehydration, Abdominal cramps",5,37,All
+512,Cetirizine 275mg,Diarrhea,"Loose stools, Dehydration, Abdominal cramps",5,35,All
+513,Herbal Vapour Rub 147mg,Diarrhea,"Dehydration, Loose stools, Abdominal cramps",5,40,Female
+514,Licorice Lozenges 233mg,Mild Allergy,"Itchy skin, Sneezing, Watery eyes",5,29,All
+515,Cetirizine 400mg,Headache,"Throbbing pain, Nausea, Light sensitivity",3.8,18,All
+516,Eucalyptus Oil 282mg,Fever,"Body ache, Chills, High temperature",5,18,Male
+517,Menthol Rub 87mg,Headache,"Nausea, Light sensitivity, Throbbing pain",5,22,Male
+518,Paracetamol 188mg,Muscle Pain,"Stiffness, Swelling, Soreness",4.2,27,All
+519,Coconut Water Sachets 314mg,Headache,"Throbbing pain, Light sensitivity, Nausea",5,46,Male
+520,Multivitamin Syrup 372mg,Muscle Pain,"Stiffness, Swelling, Soreness",5,42,Male
+521,Chamomile Tea 134mg,Muscle Pain,"Soreness, Swelling, Stiffness",5,41,All
+522,Digestive Enzyme 394mg,Fever,"Chills, High temperature, Body ache",5,46,Male
+523,Ajwain Tablets 447mg,Sore Throat,"Dry throat, Painful swallowing, Scratchy throat",4,41,All
+524,Aloe Vera Gel 314mg,Mild Allergy,"Itchy skin, Watery eyes, Sneezing",5,38,Female
+525,Pain Relief Balm 173mg,Headache,"Throbbing pain, Nausea, Light sensitivity",5,20,Female
+526,Steam Capsules 491mg,Muscle Pain,"Soreness, Stiffness, Swelling",5,32,All
+527,Probiotic Capsules 122mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",3.9,36,All
+528,Honey Syrup 264mg,Fever,"Body ache, High temperature, Chills",5,36,Female
+529,Ibuprofen 190mg,Diarrhea,"Abdominal cramps, Loose stools, Dehydration",5,36,All
+530,Saline Nasal Spray 345mg,Common Cold,"Runny nose, Sneezing, Fatigue",5,41,All
+531,Herbal Vapour Rub 424mg,Common Cold,"Fatigue, Sneezing, Runny nose",5,50,Female
+532,Tulsi Drops 379mg,Fever,"Body ache, High temperature, Chills",5,41,All
+533,Vitamin B12 128mg,Indigestion,"Gas, Bloating, Stomach discomfort",5,33,Female
+534,Coconut Water Sachets 236mg,Indigestion,"Gas, Bloating, Stomach discomfort",5,23,Female
+535,Isabgol 101mg,Diarrhea,"Dehydration, Loose stools, Abdominal cramps",4.1,38,Male
+536,Eucalyptus Oil 488mg,Diarrhea,"Abdominal cramps, Loose stools, Dehydration",5,50,Female
+537,Herbal Vapour Rub 282mg,Sore Throat,"Dry throat, Painful swallowing, Scratchy throat",5,26,Male
+538,Ginger Extract 170mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",5,34,All
+539,Ibuprofen 113mg,Fever,"Chills, Body ache, High temperature",3.2,31,All
+540,Ajwain Tablets 244mg,Sore Throat,"Scratchy throat, Dry throat, Painful swallowing",5,44,Male
+541,Calpol 322mg,Mild Allergy,"Itchy skin, Watery eyes, Sneezing",3.3,45,Female
+542,Tulsi Drops 56mg,Headache,"Nausea, Throbbing pain, Light sensitivity",5,40,All
+543,Eucalyptus Oil 290mg,Headache,"Throbbing pain, Light sensitivity, Nausea",5,38,Male
+544,Paracetamol 264mg,Mild Allergy,"Itchy skin, Watery eyes, Sneezing",3.3,26,Male
+545,Ginger Extract 453mg,Common Cold,"Sneezing, Runny nose, Fatigue",5,28,All
+546,Zincovit 353mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",5,19,Male
+547,Herbal Vapour Rub 190mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",3.5,25,Female
+548,Dolo 650 204mg,Headache,"Light sensitivity, Nausea, Throbbing pain",5,21,Female
+549,Zincovit 480mg,Indigestion,"Bloating, Gas, Stomach discomfort",5,33,Male
+550,ORS 483mg,Headache,"Throbbing pain, Light sensitivity, Nausea",5,46,All
+551,Honey Syrup 232mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",5,30,Male
+552,Licorice Lozenges 274mg,Mild Allergy,"Itchy skin, Watery eyes, Sneezing",5,50,Female
+553,Ginger Extract 109mg,Fever,"Body ache, Chills, High temperature",4.2,18,All
+554,Licorice Lozenges 156mg,Constipation,"Straining, Bloating, Hard stools",5,20,Female
+555,Ginger Extract 382mg,Fever,"High temperature, Body ache, Chills",5,21,Female
+556,Eucalyptus Oil 118mg,Cough,"Dry cough, Throat irritation, Chest discomfort",5,42,Male
+557,Cetirizine 433mg,Fever,"Chills, Body ache, High temperature",5,22,Female
+558,Herbal Cough Syrup 412mg,Muscle Pain,"Soreness, Stiffness, Swelling",5,43,All
+559,Menthol Rub 84mg,Constipation,"Straining, Hard stools, Bloating",3.2,23,All
+560,Antacid 172mg,Headache,"Light sensitivity, Nausea, Throbbing pain",5,20,Male
+561,Electral 84mg,Headache,"Nausea, Light sensitivity, Throbbing pain",5,33,Male
+562,Antacid 467mg,Cough,"Throat irritation, Chest discomfort, Dry cough",5,42,Male
+563,Saline Nasal Spray 334mg,Cough,"Chest discomfort, Dry cough, Throat irritation",5,45,All
+564,Probiotic Capsules 345mg,Sore Throat,"Scratchy throat, Dry throat, Painful swallowing",5,24,All
+565,Electral 331mg,Common Cold,"Runny nose, Sneezing, Fatigue",5,29,Female
+566,Vitamin B12 375mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",5,43,Female
+567,Digestive Enzyme 248mg,Common Cold,"Fatigue, Sneezing, Runny nose",5,50,All
+568,Menthol Rub 247mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",5,25,Female
+569,Menthol Rub 250mg,Fever,"Chills, High temperature, Body ache",5,46,Female
+570,Honey Syrup 365mg,Mild Allergy,"Itchy skin, Sneezing, Watery eyes",5,48,All
+571,Ibuprofen 164mg,Diarrhea,"Dehydration, Abdominal cramps, Loose stools",5,40,All
+572,Coconut Water Sachets 269mg,Constipation,"Hard stools, Bloating, Straining",4.1,19,All
+573,Coconut Water Sachets 121mg,Indigestion,"Bloating, Gas, Stomach discomfort",4.5,26,Female
+574,Licorice Lozenges 52mg,Indigestion,"Stomach discomfort, Gas, Bloating",5,25,Female
+575,Calpol 336mg,Cough,"Throat irritation, Dry cough, Chest discomfort",5,21,Male
+576,Vitamin C 477mg,Common Cold,"Runny nose, Fatigue, Sneezing",5,50,All
+577,Calpol 68mg,Constipation,"Bloating, Hard stools, Straining",5,22,Female
+578,Herbal Cough Syrup 338mg,Headache,"Light sensitivity, Throbbing pain, Nausea",5,36,All
+579,Isabgol 80mg,Muscle Pain,"Swelling, Stiffness, Soreness",5,42,Female
+580,Probiotic Capsules 494mg,Constipation,"Straining, Hard stools, Bloating",5,24,All
+581,Herbal Vapour Rub 428mg,Muscle Pain,"Swelling, Stiffness, Soreness",5,24,Male
+582,Herbal Vapour Rub 380mg,Muscle Pain,"Soreness, Swelling, Stiffness",5,32,All
+583,Digestive Enzyme 481mg,Sore Throat,"Painful swallowing, Dry throat, Scratchy throat",5,31,Male
+584,Pain Relief Balm 427mg,Cough,"Chest discomfort, Dry cough, Throat irritation",5,19,All
+585,Ajwain Tablets 299mg,Indigestion,"Bloating, Gas, Stomach discomfort",5,43,Male
+586,Coconut Water Sachets 223mg,Constipation,"Hard stools, Bloating, Straining",5,36,Male
+587,Honey Syrup 71mg,Fever,"High temperature, Chills, Body ache",5,39,Male
+588,Aloe Vera Gel 444mg,Fever,"Body ache, High temperature, Chills",5,46,Male
+589,Chamomile Tea 171mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",5,25,All
+590,Multivitamin Syrup 315mg,Fever,"Body ache, Chills, High temperature",5,18,Male
+591,Digestive Enzyme 313mg,Headache,"Throbbing pain, Nausea, Light sensitivity",4,31,All
+592,Eucalyptus Oil 310mg,Headache,"Throbbing pain, Nausea, Light sensitivity",5,40,All
+593,Ajwain Tablets 361mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",3.6,29,Female
+594,Vitamin B12 301mg,Muscle Pain,"Swelling, Soreness, Stiffness",3.3,48,Male
+595,Eucalyptus Oil 334mg,Sore Throat,"Painful swallowing, Dry throat, Scratchy throat",5,23,Male
+596,Aloe Vera Gel 402mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",5,50,Male
+597,Menthol Rub 87mg,Cough,"Throat irritation, Dry cough, Chest discomfort",5,34,All
+598,Zincovit 350mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,49,Male
+599,Honey Syrup 298mg,Mild Allergy,"Itchy skin, Sneezing, Watery eyes",5,36,Female
+600,Aloe Vera Gel 131mg,Sore Throat,"Dry throat, Scratchy throat, Painful swallowing",5,43,Female
+601,Peppermint Oil 75mg,Diarrhea,"Dehydration, Abdominal cramps, Loose stools",5,38,All
+602,Dolo 650 196mg,Fever,"High temperature, Body ache, Chills",4.5,45,Female
+603,Steam Capsules 75mg,Fever,"High temperature, Body ache, Chills",5,34,Female
+604,Dolo 650 203mg,Indigestion,"Stomach discomfort, Bloating, Gas",3.8,39,All
+605,Lozenges 121mg,Sore Throat,"Dry throat, Painful swallowing, Scratchy throat",5,18,All
+606,Herbal Cough Syrup 154mg,Sore Throat,"Scratchy throat, Painful swallowing, Dry throat",4.1,47,Female
+607,Ginger Extract 383mg,Cough,"Dry cough, Chest discomfort, Throat irritation",5,34,Male
+608,Chamomile Tea 198mg,Fever,"Body ache, Chills, High temperature",3.9,34,Male
+609,Digestive Enzyme 84mg,Cough,"Throat irritation, Chest discomfort, Dry cough",5,27,Female
+610,Tulsi Tea 81mg,Headache,"Nausea, Throbbing pain, Light sensitivity",5,30,All
+611,Ajwain Tablets 95mg,Headache,"Light sensitivity, Nausea, Throbbing pain",5,21,Female
+612,Lozenges 320mg,Muscle Pain,"Stiffness, Swelling, Soreness",5,32,All
+613,Tulsi Tea 340mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",5,35,Female
+614,Menthol Rub 463mg,Sore Throat,"Scratchy throat, Dry throat, Painful swallowing",5,49,Male
+615,Chamomile Tea 460mg,Constipation,"Hard stools, Straining, Bloating",3.9,25,Male
+616,Peppermint Oil 194mg,Common Cold,"Runny nose, Sneezing, Fatigue",5,18,All
+617,Multivitamin Syrup 451mg,Cough,"Throat irritation, Chest discomfort, Dry cough",3.4,35,All
+618,Tulsi Tea 409mg,Indigestion,"Gas, Bloating, Stomach discomfort",5,49,Female
+619,Steam Capsules 403mg,Headache,"Nausea, Light sensitivity, Throbbing pain",5,34,All
+620,Zincovit 178mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",5,28,Male
+621,Ajwain Tablets 308mg,Fever,"High temperature, Body ache, Chills",3.8,40,Female
+622,ORS 315mg,Constipation,"Straining, Bloating, Hard stools",3.1,47,All
+623,Vitamin C 203mg,Indigestion,"Bloating, Stomach discomfort, Gas",5,23,All
+624,Herbal Vapour Rub 497mg,Muscle Pain,"Swelling, Soreness, Stiffness",4.1,20,Male
+625,Vitamin C 106mg,Diarrhea,"Dehydration, Abdominal cramps, Loose stools",5,49,Male
+626,Peppermint Oil 281mg,Common Cold,"Fatigue, Sneezing, Runny nose",5,23,Male
+627,Steam Capsules 282mg,Cough,"Throat irritation, Chest discomfort, Dry cough",5,47,Female
+628,Isabgol 351mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,49,All
+629,Digestive Enzyme 83mg,Sore Throat,"Scratchy throat, Painful swallowing, Dry throat",5,23,All
+630,Vitamin B12 305mg,Diarrhea,"Loose stools, Abdominal cramps, Dehydration",3.2,20,Male
+631,Vitamin C 60mg,Indigestion,"Stomach discomfort, Bloating, Gas",5,50,Female
+632,Ginger Extract 156mg,Indigestion,"Bloating, Gas, Stomach discomfort",4.4,20,Female
+633,Tulsi Drops 124mg,Fever,"High temperature, Chills, Body ache",3.5,47,Male
+634,Vitamin C 226mg,Sore Throat,"Painful swallowing, Scratchy throat, Dry throat",5,42,Female
+635,Steam Capsules 323mg,Constipation,"Hard stools, Bloating, Straining",5,33,All
+636,ORS 345mg,Headache,"Throbbing pain, Nausea, Light sensitivity",5,35,Male
+637,Menthol Rub 247mg,Headache,"Light sensitivity, Nausea, Throbbing pain",3.6,48,Female
+638,Zincovit 365mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",5,44,Male
+639,Lozenges 135mg,Common Cold,"Runny nose, Sneezing, Fatigue",3.8,29,All
+640,Lozenges 90mg,Cough,"Chest discomfort, Dry cough, Throat irritation",5,22,Male
+641,Chamomile Tea 203mg,Cough,"Dry cough, Throat irritation, Chest discomfort",5,49,Female
+642,Ibuprofen 456mg,Headache,"Throbbing pain, Nausea, Light sensitivity",4.2,27,Female
+643,Vitamin B12 195mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,39,All
+644,Chamomile Tea 431mg,Headache,"Throbbing pain, Light sensitivity, Nausea",5,25,Female
+645,Menthol Rub 171mg,Headache,"Nausea, Light sensitivity, Throbbing pain",5,25,All
+646,Saline Nasal Spray 320mg,Sore Throat,"Painful swallowing, Dry throat, Scratchy throat",3,48,Female
+647,Vitamin C 60mg,Constipation,"Bloating, Hard stools, Straining",5,31,Male
+648,Aloe Vera Gel 238mg,Muscle Pain,"Soreness, Stiffness, Swelling",5,43,All
+649,Lozenges 363mg,Fever,"Chills, Body ache, High temperature",5,40,Female
+650,Cetirizine 312mg,Cough,"Dry cough, Throat irritation, Chest discomfort",5,28,Male
+651,Cetirizine 316mg,Headache,"Nausea, Light sensitivity, Throbbing pain",5,50,Female
+652,Antacid 193mg,Sore Throat,"Painful swallowing, Dry throat, Scratchy throat",5,40,Female
+653,Herbal Cough Syrup 221mg,Diarrhea,"Abdominal cramps, Dehydration, Loose stools",3.9,29,Female
+654,Menthol Rub 399mg,Indigestion,"Gas, Bloating, Stomach discomfort",5,34,Female
+655,Multivitamin Syrup 473mg,Constipation,"Straining, Hard stools, Bloating",5,43,Male
+656,Digestive Enzyme 416mg,Common Cold,"Sneezing, Runny nose, Fatigue",3.8,46,All
+657,Vitamin C 327mg,Cough,"Throat irritation, Dry cough, Chest discomfort",5,36,All
+658,Honey Syrup 487mg,Constipation,"Hard stools, Straining, Bloating",3.2,18,Male
+659,Aloe Vera Gel 52mg,Constipation,"Bloating, Straining, Hard stools",3.2,28,Male
+660,Steam Capsules 394mg,Common Cold,"Sneezing, Runny nose, Fatigue",5,35,Female
+661,Pain Relief Balm 51mg,Constipation,"Bloating, Straining, Hard stools",5,35,Female
+662,Isabgol 122mg,Cough,"Chest discomfort, Throat irritation, Dry cough",5,35,Male
+663,Paracetamol 436mg,Common Cold,"Runny nose, Fatigue, Sneezing",3.4,18,All
+664,Vitamin B12 349mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",5,42,All
+665,Licorice Lozenges 290mg,Constipation,"Straining, Bloating, Hard stools",3.9,27,All
+666,Pain Relief Balm 113mg,Fever,"Body ache, High temperature, Chills",5,18,Female
+667,Coconut Water Sachets 77mg,Sore Throat,"Scratchy throat, Dry throat, Painful swallowing",5,48,Female
+668,Menthol Rub 99mg,Indigestion,"Stomach discomfort, Bloating, Gas",5,19,Male
+669,Peppermint Oil 96mg,Headache,"Throbbing pain, Nausea, Light sensitivity",5,40,All
+670,Ginger Extract 240mg,Common Cold,"Fatigue, Runny nose, Sneezing",5,22,Female
+671,Antacid 322mg,Headache,"Nausea, Throbbing pain, Light sensitivity",5,47,Female
+672,Digestive Enzyme 177mg,Headache,"Light sensitivity, Throbbing pain, Nausea",5,30,Female
+673,Probiotic Capsules 305mg,Constipation,"Hard stools, Bloating, Straining",4.5,22,Male
+674,Cinnamon Capsules 64mg,Diarrhea,"Abdominal cramps, Dehydration, Loose stools",5,41,All
+675,Multivitamin Syrup 227mg,Sore Throat,"Dry throat, Painful swallowing, Scratchy throat",5,27,Female
+676,Peppermint Oil 223mg,Muscle Pain,"Swelling, Soreness, Stiffness",5,27,Male
+677,Electral 328mg,Common Cold,"Fatigue, Runny nose, Sneezing",5,41,Female
+678,Ajwain Tablets 87mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",5,48,Female
+679,Cetirizine 463mg,Diarrhea,"Abdominal cramps, Loose stools, Dehydration",5,46,All
+680,ORS 431mg,Common Cold,"Sneezing, Fatigue, Runny nose",4.1,32,All
+681,Vitamin B12 288mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",5,21,Female
+682,Chamomile Tea 317mg,Cough,"Throat irritation, Chest discomfort, Dry cough",5,50,Male
+683,Peppermint Oil 415mg,Indigestion,"Bloating, Stomach discomfort, Gas",5,20,All
+684,Coconut Water Sachets 321mg,Indigestion,"Bloating, Gas, Stomach discomfort",5,21,All
+685,Saline Nasal Spray 146mg,Muscle Pain,"Swelling, Stiffness, Soreness",5,18,Female
+686,Electral 395mg,Headache,"Nausea, Throbbing pain, Light sensitivity",5,18,Male
+687,Probiotic Capsules 95mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",5,18,Female
+688,Saline Nasal Spray 370mg,Sore Throat,"Painful swallowing, Scratchy throat, Dry throat",5,49,All
+689,Paracetamol 179mg,Fever,"High temperature, Body ache, Chills",5,48,Female
+690,Honey Syrup 213mg,Constipation,"Hard stools, Bloating, Straining",5,19,All
+691,Saline Nasal Spray 495mg,Common Cold,"Sneezing, Runny nose, Fatigue",5,49,All
+692,Herbal Vapour Rub 120mg,Constipation,"Bloating, Straining, Hard stools",5,24,Male
+693,Chamomile Tea 132mg,Constipation,"Straining, Bloating, Hard stools",4.1,44,Female
+694,Zincovit 395mg,Headache,"Light sensitivity, Nausea, Throbbing pain",5,43,Female
+695,Cetirizine 56mg,Common Cold,"Fatigue, Runny nose, Sneezing",4,44,All
+696,Vitamin C 409mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",5,33,Male
+697,Probiotic Capsules 192mg,Cough,"Dry cough, Throat irritation, Chest discomfort",5,28,Male
+698,Digestive Enzyme 442mg,Common Cold,"Fatigue, Sneezing, Runny nose",5,45,All
+699,Ibuprofen 367mg,Constipation,"Bloating, Straining, Hard stools",4.2,21,Female
+700,Vitamin B12 407mg,Diarrhea,"Abdominal cramps, Dehydration, Loose stools",5,38,Female
+701,Coconut Water Sachets 312mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,44,Male
+702,Honey Syrup 298mg,Sore Throat,"Scratchy throat, Painful swallowing, Dry throat",5,32,All
+703,Tulsi Tea 498mg,Indigestion,"Gas, Stomach discomfort, Bloating",5,37,All
+704,Steam Capsules 50mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",3.6,34,Female
+705,Lozenges 187mg,Indigestion,"Stomach discomfort, Gas, Bloating",3.4,44,All
+706,Electral 235mg,Indigestion,"Gas, Stomach discomfort, Bloating",5,50,Female
+707,Cetirizine 168mg,Headache,"Throbbing pain, Light sensitivity, Nausea",5,43,Male
+708,ORS 366mg,Headache,"Throbbing pain, Nausea, Light sensitivity",5,37,Male
+709,Licorice Lozenges 331mg,Constipation,"Bloating, Hard stools, Straining",5,39,Female
+710,Peppermint Oil 201mg,Constipation,"Bloating, Straining, Hard stools",5,47,Female
+711,Ibuprofen 222mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",3.9,29,Male
+712,Tulsi Tea 135mg,Diarrhea,"Loose stools, Dehydration, Abdominal cramps",5,38,Female
+713,Calpol 402mg,Fever,"Chills, Body ache, High temperature",5,36,All
+714,Cinnamon Capsules 219mg,Constipation,"Bloating, Hard stools, Straining",5,25,All
+715,Aloe Vera Gel 60mg,Sore Throat,"Scratchy throat, Painful swallowing, Dry throat",3.4,43,Male
+716,Ajwain Tablets 489mg,Sore Throat,"Dry throat, Scratchy throat, Painful swallowing",5,35,Female
+717,Cinnamon Capsules 292mg,Sore Throat,"Dry throat, Painful swallowing, Scratchy throat",5,41,All
+718,Tulsi Drops 205mg,Sore Throat,"Scratchy throat, Dry throat, Painful swallowing",5,41,Male
+719,Licorice Lozenges 146mg,Constipation,"Bloating, Hard stools, Straining",5,49,Male
+720,Lozenges 397mg,Cough,"Dry cough, Throat irritation, Chest discomfort",5,37,Male
+721,Zincovit 182mg,Diarrhea,"Loose stools, Abdominal cramps, Dehydration",5,42,Male
+722,Ginger Extract 416mg,Headache,"Throbbing pain, Light sensitivity, Nausea",5,22,Male
+723,Pain Relief Balm 404mg,Muscle Pain,"Stiffness, Soreness, Swelling",3.6,50,Male
+724,Menthol Rub 112mg,Indigestion,"Gas, Stomach discomfort, Bloating",5,28,All
+725,Chamomile Tea 257mg,Muscle Pain,"Swelling, Soreness, Stiffness",5,44,Male
+726,Herbal Cough Syrup 228mg,Diarrhea,"Loose stools, Abdominal cramps, Dehydration",5,24,Female
+727,Isabgol 146mg,Fever,"Chills, High temperature, Body ache",5,22,Male
+728,Peppermint Oil 237mg,Indigestion,"Gas, Stomach discomfort, Bloating",5,23,Male
+729,Menthol Rub 311mg,Fever,"Chills, High temperature, Body ache",5,46,All
+730,Aloe Vera Gel 180mg,Fever,"High temperature, Body ache, Chills",3.7,31,Male
+731,Honey Syrup 84mg,Sore Throat,"Scratchy throat, Dry throat, Painful swallowing",5,40,All
+732,Menthol Rub 260mg,Muscle Pain,"Swelling, Stiffness, Soreness",5,21,Male
+733,Steam Capsules 445mg,Fever,"Chills, Body ache, High temperature",5,42,Female
+734,Coconut Water Sachets 181mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",3.3,36,Female
+735,Ginger Extract 88mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",5,46,Male
+736,Paracetamol 399mg,Fever,"Chills, High temperature, Body ache",3.9,37,Female
+737,Coconut Water Sachets 313mg,Muscle Pain,"Swelling, Soreness, Stiffness",4.1,46,Female
+738,Multivitamin Syrup 341mg,Muscle Pain,"Swelling, Soreness, Stiffness",5,50,All
+739,Tulsi Tea 485mg,Headache,"Throbbing pain, Light sensitivity, Nausea",5,24,Female
+740,Chamomile Tea 229mg,Cough,"Chest discomfort, Throat irritation, Dry cough",5,34,All
+741,Zincovit 122mg,Constipation,"Straining, Bloating, Hard stools",3.2,33,Female
+742,Zincovit 457mg,Muscle Pain,"Soreness, Swelling, Stiffness",5,47,All
+743,Vitamin C 80mg,Fever,"High temperature, Chills, Body ache",5,28,Female
+744,Steam Capsules 159mg,Diarrhea,"Abdominal cramps, Dehydration, Loose stools",4.4,31,All
+745,Dolo 650 319mg,Fever,"Chills, Body ache, High temperature",5,45,Male
+746,Tulsi Tea 271mg,Sore Throat,"Scratchy throat, Dry throat, Painful swallowing",3.9,30,Female
+747,Eucalyptus Oil 403mg,Indigestion,"Gas, Bloating, Stomach discomfort",5,18,Male
+748,Digestive Enzyme 205mg,Indigestion,"Gas, Stomach discomfort, Bloating",4.2,36,Female
+749,Antacid 91mg,Constipation,"Straining, Bloating, Hard stools",5,33,All
+750,Cinnamon Capsules 458mg,Fever,"Body ache, Chills, High temperature",5,44,All
+751,Steam Capsules 414mg,Indigestion,"Bloating, Stomach discomfort, Gas",5,36,Male
+752,ORS 475mg,Diarrhea,"Loose stools, Dehydration, Abdominal cramps",5,37,Male
+753,Calpol 56mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",5,23,All
+754,Electral 220mg,Fever,"Chills, Body ache, High temperature",5,44,Female
+755,Antacid 326mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",5,42,Female
+756,Aloe Vera Gel 184mg,Diarrhea,"Loose stools, Abdominal cramps, Dehydration",5,25,All
+757,Aloe Vera Gel 52mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",3.9,22,Female
+758,Paracetamol 464mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",5,34,All
+759,Aloe Vera Gel 118mg,Fever,"Chills, High temperature, Body ache",5,31,All
+760,Calpol 184mg,Headache,"Light sensitivity, Throbbing pain, Nausea",5,44,Male
+761,Herbal Cough Syrup 150mg,Cough,"Throat irritation, Dry cough, Chest discomfort",5,19,Male
+762,Ajwain Tablets 357mg,Constipation,"Hard stools, Bloating, Straining",5,27,Female
+763,Tulsi Drops 140mg,Fever,"Chills, Body ache, High temperature",5,23,All
+764,Vitamin B12 151mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",4.4,34,Female
+765,Zincovit 128mg,Headache,"Light sensitivity, Nausea, Throbbing pain",5,35,All
+766,Tulsi Tea 67mg,Sore Throat,"Dry throat, Scratchy throat, Painful swallowing",5,25,All
+767,Multivitamin Syrup 108mg,Diarrhea,"Loose stools, Abdominal cramps, Dehydration",5,49,Female
+768,Licorice Lozenges 329mg,Constipation,"Hard stools, Straining, Bloating",5,41,Male
+769,Vitamin C 141mg,Indigestion,"Gas, Stomach discomfort, Bloating",4.4,47,Male
+770,Antacid 183mg,Indigestion,"Stomach discomfort, Bloating, Gas",5,33,Female
+771,Saline Nasal Spray 58mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",5,37,All
+772,Ginger Extract 450mg,Diarrhea,"Abdominal cramps, Loose stools, Dehydration",5,40,All
+773,Licorice Lozenges 160mg,Diarrhea,"Abdominal cramps, Dehydration, Loose stools",5,32,Female
+774,Saline Nasal Spray 72mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",5,36,Male
+775,Steam Capsules 229mg,Muscle Pain,"Soreness, Swelling, Stiffness",5,28,Male
+776,Chamomile Tea 345mg,Common Cold,"Runny nose, Sneezing, Fatigue",5,25,All
+777,ORS 256mg,Diarrhea,"Dehydration, Loose stools, Abdominal cramps",5,49,Male
+778,Paracetamol 248mg,Cough,"Dry cough, Throat irritation, Chest discomfort",5,50,Male
+779,Cetirizine 224mg,Cough,"Dry cough, Chest discomfort, Throat irritation",5,25,All
+780,Tulsi Tea 231mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",5,33,All
+781,Tulsi Tea 168mg,Headache,"Light sensitivity, Nausea, Throbbing pain",5,44,All
+782,Electral 147mg,Mild Allergy,"Itchy skin, Sneezing, Watery eyes",5,45,All
+783,Paracetamol 320mg,Common Cold,"Fatigue, Sneezing, Runny nose",5,23,Male
+784,Chamomile Tea 360mg,Muscle Pain,"Soreness, Stiffness, Swelling",5,26,Male
+785,Vitamin C 170mg,Diarrhea,"Abdominal cramps, Loose stools, Dehydration",5,23,Female
+786,Cinnamon Capsules 398mg,Common Cold,"Runny nose, Fatigue, Sneezing",5,25,All
+787,Honey Syrup 498mg,Diarrhea,"Abdominal cramps, Dehydration, Loose stools",5,49,All
+788,Tulsi Drops 382mg,Common Cold,"Runny nose, Fatigue, Sneezing",5,21,All
+789,Paracetamol 59mg,Diarrhea,"Abdominal cramps, Dehydration, Loose stools",5,23,Female
+790,Honey Syrup 195mg,Fever,"Chills, High temperature, Body ache",5,26,Male
+791,Tulsi Drops 418mg,Mild Allergy,"Itchy skin, Watery eyes, Sneezing",5,40,Male
+792,Isabgol 354mg,Common Cold,"Runny nose, Fatigue, Sneezing",5,44,All
+793,Tulsi Drops 458mg,Indigestion,"Stomach discomfort, Gas, Bloating",5,31,Female
+794,Peppermint Oil 310mg,Common Cold,"Runny nose, Sneezing, Fatigue",4.4,32,Male
+795,Eucalyptus Oil 198mg,Cough,"Chest discomfort, Dry cough, Throat irritation",5,39,Female
+796,Peppermint Oil 205mg,Cough,"Chest discomfort, Throat irritation, Dry cough",5,37,All
+797,Cetirizine 132mg,Constipation,"Bloating, Hard stools, Straining",5,33,Male
+798,Aloe Vera Gel 91mg,Muscle Pain,"Soreness, Swelling, Stiffness",5,45,Male
+799,Ginger Extract 339mg,Constipation,"Hard stools, Straining, Bloating",5,28,Female
+800,Coconut Water Sachets 64mg,Common Cold,"Sneezing, Runny nose, Fatigue",5,42,Female
+801,Tulsi Drops 393mg,Indigestion,"Bloating, Stomach discomfort, Gas",5,28,Female
+802,Ibuprofen 373mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",5,37,Female
+803,Peppermint Oil 331mg,Constipation,"Straining, Bloating, Hard stools",5,25,Male
+804,Steam Capsules 422mg,Diarrhea,"Abdominal cramps, Loose stools, Dehydration",5,21,All
+805,Cetirizine 470mg,Sore Throat,"Scratchy throat, Painful swallowing, Dry throat",5,31,Female
+806,Eucalyptus Oil 416mg,Muscle Pain,"Swelling, Soreness, Stiffness",5,29,Female
+807,Dolo 650 201mg,Common Cold,"Runny nose, Sneezing, Fatigue",5,45,Female
+808,Tulsi Tea 207mg,Common Cold,"Fatigue, Runny nose, Sneezing",5,18,Male
+809,Honey Syrup 371mg,Sore Throat,"Painful swallowing, Scratchy throat, Dry throat",5,20,All
+810,Steam Capsules 146mg,Indigestion,"Gas, Bloating, Stomach discomfort",5,40,All
+811,Pain Relief Balm 382mg,Cough,"Dry cough, Throat irritation, Chest discomfort",5,19,All
+812,Electral 418mg,Indigestion,"Bloating, Gas, Stomach discomfort",5,45,All
+813,Steam Capsules 186mg,Sore Throat,"Dry throat, Painful swallowing, Scratchy throat",5,34,Male
+814,Digestive Enzyme 183mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",3.7,25,All
+815,Tulsi Drops 169mg,Indigestion,"Bloating, Stomach discomfort, Gas",5,42,All
+816,Tulsi Drops 393mg,Indigestion,"Bloating, Stomach discomfort, Gas",5,39,All
+817,Ajwain Tablets 76mg,Constipation,"Hard stools, Straining, Bloating",5,43,Male
+818,Dolo 650 52mg,Cough,"Dry cough, Chest discomfort, Throat irritation",3.8,29,All
+819,Licorice Lozenges 496mg,Fever,"Chills, High temperature, Body ache",5,30,Male
+820,Tulsi Tea 377mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,38,Male
+821,Vitamin C 345mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",5,42,Male
+822,Coconut Water Sachets 318mg,Sore Throat,"Dry throat, Painful swallowing, Scratchy throat",5,30,All
+823,Herbal Vapour Rub 200mg,Diarrhea,"Abdominal cramps, Loose stools, Dehydration",5,41,Male
+824,Aloe Vera Gel 89mg,Mild Allergy,"Itchy skin, Watery eyes, Sneezing",4.5,22,Male
+825,Honey Syrup 270mg,Muscle Pain,"Soreness, Stiffness, Swelling",5,28,Female
+826,Peppermint Oil 350mg,Fever,"Body ache, High temperature, Chills",5,43,Male
+827,Lozenges 173mg,Diarrhea,"Loose stools, Abdominal cramps, Dehydration",5,40,Male
+828,Vitamin C 304mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",5,21,Female
+829,Coconut Water Sachets 459mg,Diarrhea,"Loose stools, Abdominal cramps, Dehydration",5,39,All
+830,Dolo 650 171mg,Sore Throat,"Dry throat, Painful swallowing, Scratchy throat",5,33,All
+831,Isabgol 439mg,Constipation,"Hard stools, Straining, Bloating",5,49,All
+832,Multivitamin Syrup 126mg,Indigestion,"Bloating, Gas, Stomach discomfort",3.3,41,Female
+833,Vitamin C 431mg,Common Cold,"Sneezing, Runny nose, Fatigue",5,40,Male
+834,Antacid 274mg,Fever,"Body ache, High temperature, Chills",5,38,Female
+835,Antacid 113mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",3,23,Male
+836,Lozenges 280mg,Cough,"Chest discomfort, Dry cough, Throat irritation",5,33,Female
+837,Cetirizine 157mg,Headache,"Nausea, Light sensitivity, Throbbing pain",3,50,Female
+838,Calpol 408mg,Muscle Pain,"Stiffness, Soreness, Swelling",3.1,29,Male
+839,Honey Syrup 255mg,Sore Throat,"Scratchy throat, Dry throat, Painful swallowing",5,40,All
+840,Chamomile Tea 113mg,Sore Throat,"Scratchy throat, Dry throat, Painful swallowing",5,46,Male
+841,Multivitamin Syrup 51mg,Constipation,"Hard stools, Straining, Bloating",4.3,44,All
+842,Electral 436mg,Constipation,"Straining, Bloating, Hard stools",5,30,Male
+843,Herbal Vapour Rub 293mg,Mild Allergy,"Watery eyes, Itchy skin, Sneezing",5,36,Male
+844,Digestive Enzyme 283mg,Diarrhea,"Loose stools, Abdominal cramps, Dehydration",5,24,Male
+845,Vitamin B12 54mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",3.1,41,Female
+846,Chamomile Tea 380mg,Muscle Pain,"Swelling, Stiffness, Soreness",3.8,33,Female
+847,Aloe Vera Gel 134mg,Indigestion,"Gas, Bloating, Stomach discomfort",5,42,All
+848,Honey Syrup 350mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",4,27,All
+849,Chamomile Tea 389mg,Fever,"Body ache, Chills, High temperature",5,34,All
+850,Zincovit 114mg,Indigestion,"Stomach discomfort, Gas, Bloating",5,48,All
+851,Aloe Vera Gel 373mg,Common Cold,"Runny nose, Fatigue, Sneezing",5,45,Female
+852,Peppermint Oil 151mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,45,All
+853,Licorice Lozenges 62mg,Cough,"Throat irritation, Dry cough, Chest discomfort",4,41,Male
+854,Eucalyptus Oil 459mg,Muscle Pain,"Stiffness, Swelling, Soreness",5,19,Male
+855,Probiotic Capsules 418mg,Cough,"Dry cough, Chest discomfort, Throat irritation",5,39,Male
+856,Ginger Extract 241mg,Fever,"High temperature, Chills, Body ache",5,21,Female
+857,Chamomile Tea 143mg,Cough,"Chest discomfort, Dry cough, Throat irritation",5,41,Female
+858,Ginger Extract 265mg,Common Cold,"Fatigue, Runny nose, Sneezing",5,40,Female
+859,Peppermint Oil 104mg,Diarrhea,"Loose stools, Abdominal cramps, Dehydration",5,34,Female
+860,Coconut Water Sachets 476mg,Constipation,"Straining, Hard stools, Bloating",5,36,All
+861,Eucalyptus Oil 69mg,Headache,"Nausea, Light sensitivity, Throbbing pain",5,20,All
+862,Isabgol 313mg,Common Cold,"Runny nose, Fatigue, Sneezing",5,50,Female
+863,Eucalyptus Oil 368mg,Common Cold,"Fatigue, Runny nose, Sneezing",5,18,Female
+864,Herbal Vapour Rub 453mg,Muscle Pain,"Soreness, Stiffness, Swelling",5,42,Female
+865,Pain Relief Balm 333mg,Sore Throat,"Painful swallowing, Dry throat, Scratchy throat",5,41,Male
+866,Ajwain Tablets 153mg,Indigestion,"Gas, Bloating, Stomach discomfort",5,48,Female
+867,Cinnamon Capsules 415mg,Common Cold,"Fatigue, Sneezing, Runny nose",5,48,Male
+868,Ginger Extract 449mg,Fever,"Body ache, Chills, High temperature",5,22,All
+869,Ajwain Tablets 236mg,Fever,"Body ache, Chills, High temperature",5,23,All
+870,Lozenges 423mg,Common Cold,"Fatigue, Runny nose, Sneezing",5,35,Female
+871,Menthol Rub 308mg,Sore Throat,"Painful swallowing, Scratchy throat, Dry throat",3.2,39,Female
+872,Peppermint Oil 98mg,Sore Throat,"Scratchy throat, Dry throat, Painful swallowing",5,45,Male
+873,Lozenges 290mg,Cough,"Throat irritation, Dry cough, Chest discomfort",5,41,All
+874,Menthol Rub 136mg,Cough,"Throat irritation, Chest discomfort, Dry cough",5,48,Female
+875,Herbal Vapour Rub 102mg,Indigestion,"Gas, Bloating, Stomach discomfort",5,50,Male
+876,Isabgol 429mg,Constipation,"Straining, Hard stools, Bloating",5,21,Female
+877,Cinnamon Capsules 457mg,Indigestion,"Gas, Stomach discomfort, Bloating",5,47,Male
+878,Peppermint Oil 437mg,Sore Throat,"Painful swallowing, Scratchy throat, Dry throat",5,42,Female
+879,Menthol Rub 273mg,Indigestion,"Stomach discomfort, Bloating, Gas",5,31,Male
+880,Pain Relief Balm 145mg,Headache,"Throbbing pain, Nausea, Light sensitivity",5,47,Male
+881,Vitamin C 367mg,Headache,"Throbbing pain, Light sensitivity, Nausea",5,45,All
+882,Eucalyptus Oil 419mg,Indigestion,"Bloating, Gas, Stomach discomfort",5,22,Female
+883,Cetirizine 62mg,Sore Throat,"Painful swallowing, Scratchy throat, Dry throat",5,29,Male
+884,Coconut Water Sachets 278mg,Fever,"High temperature, Body ache, Chills",3.2,41,Male
+885,Multivitamin Syrup 334mg,Headache,"Throbbing pain, Nausea, Light sensitivity",5,45,All
+886,Digestive Enzyme 244mg,Fever,"Body ache, Chills, High temperature",5,33,All
+887,Calpol 191mg,Constipation,"Hard stools, Straining, Bloating",5,32,Male
+888,Tulsi Drops 215mg,Diarrhea,"Dehydration, Loose stools, Abdominal cramps",5,47,All
+889,Probiotic Capsules 199mg,Constipation,"Bloating, Straining, Hard stools",5,32,All
+890,Herbal Cough Syrup 186mg,Muscle Pain,"Soreness, Stiffness, Swelling",5,28,Male
+891,Electral 172mg,Constipation,"Straining, Hard stools, Bloating",3.6,30,All
+892,Isabgol 263mg,Headache,"Light sensitivity, Nausea, Throbbing pain",3.9,41,Male
+893,Isabgol 231mg,Muscle Pain,"Soreness, Stiffness, Swelling",3.9,32,Female
+894,Chamomile Tea 200mg,Indigestion,"Gas, Bloating, Stomach discomfort",5,45,Female
+895,Peppermint Oil 221mg,Mild Allergy,"Itchy skin, Sneezing, Watery eyes",5,48,Female
+896,Menthol Rub 85mg,Headache,"Nausea, Throbbing pain, Light sensitivity",5,40,All
+897,Dolo 650 347mg,Sore Throat,"Dry throat, Scratchy throat, Painful swallowing",5,23,All
+898,Ajwain Tablets 405mg,Mild Allergy,"Itchy skin, Sneezing, Watery eyes",5,43,Male
+899,Probiotic Capsules 457mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,39,All
+900,Ibuprofen 395mg,Fever,"Body ache, Chills, High temperature",5,38,Male
+901,Antacid 179mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",5,33,All
+902,Herbal Vapour Rub 400mg,Indigestion,"Gas, Stomach discomfort, Bloating",4.1,31,All
+903,Menthol Rub 425mg,Indigestion,"Bloating, Stomach discomfort, Gas",5,40,All
+904,Eucalyptus Oil 369mg,Sore Throat,"Dry throat, Scratchy throat, Painful swallowing",5,35,All
+905,Saline Nasal Spray 125mg,Mild Allergy,"Sneezing, Itchy skin, Watery eyes",5,39,Female
+906,Cinnamon Capsules 125mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,46,Male
+907,Ajwain Tablets 287mg,Muscle Pain,"Swelling, Soreness, Stiffness",5,35,Male
+908,Ajwain Tablets 131mg,Headache,"Nausea, Throbbing pain, Light sensitivity",5,24,Male
+909,Licorice Lozenges 322mg,Indigestion,"Gas, Bloating, Stomach discomfort",5,39,All
+910,Cinnamon Capsules 109mg,Constipation,"Bloating, Straining, Hard stools",3.5,23,All
+911,Licorice Lozenges 179mg,Muscle Pain,"Stiffness, Soreness, Swelling",5,46,Female
+912,Licorice Lozenges 426mg,Indigestion,"Stomach discomfort, Gas, Bloating",5,43,Male
+913,Chamomile Tea 166mg,Fever,"Body ache, Chills, High temperature",5,31,Male
+914,Saline Nasal Spray 69mg,Fever,"High temperature, Body ache, Chills",3.9,50,All
+915,Pain Relief Balm 437mg,Cough,"Chest discomfort, Throat irritation, Dry cough",3.2,21,Female
+916,Herbal Cough Syrup 293mg,Cough,"Chest discomfort, Throat irritation, Dry cough",3.5,42,Male
+917,Antacid 468mg,Constipation,"Bloating, Straining, Hard stools",3.9,24,All
+918,Peppermint Oil 440mg,Constipation,"Hard stools, Bloating, Straining",3.6,36,Male
+919,Zincovit 333mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",5,47,Male
+920,Eucalyptus Oil 480mg,Sore Throat,"Painful swallowing, Dry throat, Scratchy throat",3.9,26,All
+921,Eucalyptus Oil 286mg,Indigestion,"Stomach discomfort, Gas, Bloating",5,25,Female
+922,Calpol 268mg,Headache,"Nausea, Throbbing pain, Light sensitivity",5,31,Male
+923,ORS 211mg,Common Cold,"Runny nose, Sneezing, Fatigue",5,35,Male
+924,Pain Relief Balm 377mg,Indigestion,"Gas, Bloating, Stomach discomfort",5,21,Male
+925,Dolo 650 264mg,Constipation,"Straining, Hard stools, Bloating",5,40,Male
+926,Honey Syrup 267mg,Constipation,"Bloating, Hard stools, Straining",5,37,Female
+927,Vitamin C 325mg,Fever,"Chills, High temperature, Body ache",3.5,23,Male
+928,Lozenges 448mg,Sore Throat,"Scratchy throat, Painful swallowing, Dry throat",5,49,Female
+929,Peppermint Oil 132mg,Indigestion,"Gas, Bloating, Stomach discomfort",5,31,Female
+930,Herbal Vapour Rub 490mg,Sore Throat,"Painful swallowing, Dry throat, Scratchy throat",5,27,Male
+931,Peppermint Oil 159mg,Constipation,"Bloating, Hard stools, Straining",5,34,Male
+932,Saline Nasal Spray 327mg,Muscle Pain,"Soreness, Swelling, Stiffness",5,29,Male
+933,Antacid 92mg,Muscle Pain,"Stiffness, Swelling, Soreness",3.7,44,Male
+934,Saline Nasal Spray 392mg,Cough,"Dry cough, Throat irritation, Chest discomfort",5,44,Male
+935,Multivitamin Syrup 65mg,Constipation,"Straining, Hard stools, Bloating",5,29,Male
+936,Isabgol 292mg,Indigestion,"Stomach discomfort, Gas, Bloating",5,44,All
+937,Antacid 296mg,Constipation,"Bloating, Straining, Hard stools",5,26,All
+938,Pain Relief Balm 164mg,Common Cold,"Runny nose, Fatigue, Sneezing",5,48,All
+939,Steam Capsules 432mg,Fever,"High temperature, Chills, Body ache",5,44,Female
+940,Cetirizine 368mg,Fever,"Body ache, Chills, High temperature",5,18,Female
+941,Eucalyptus Oil 478mg,Headache,"Throbbing pain, Light sensitivity, Nausea",5,37,All
+942,Herbal Vapour Rub 385mg,Sore Throat,"Painful swallowing, Dry throat, Scratchy throat",4.3,36,All
+943,Herbal Vapour Rub 186mg,Constipation,"Straining, Hard stools, Bloating",5,28,Female
+944,Cinnamon Capsules 446mg,Constipation,"Hard stools, Straining, Bloating",5,48,All
+945,Electral 366mg,Fever,"Body ache, Chills, High temperature",4.3,41,All
+946,Probiotic Capsules 492mg,Constipation,"Straining, Hard stools, Bloating",5,23,Male
+947,Eucalyptus Oil 105mg,Cough,"Dry cough, Chest discomfort, Throat irritation",5,35,Female
+948,Ibuprofen 303mg,Sore Throat,"Dry throat, Painful swallowing, Scratchy throat",3.1,37,Female
+949,Herbal Cough Syrup 291mg,Muscle Pain,"Soreness, Stiffness, Swelling",5,35,All
+950,Tulsi Drops 145mg,Mild Allergy,"Itchy skin, Sneezing, Watery eyes",5,45,Male
+951,Licorice Lozenges 124mg,Diarrhea,"Abdominal cramps, Loose stools, Dehydration",5,18,Male
+952,Ajwain Tablets 242mg,Sore Throat,"Painful swallowing, Scratchy throat, Dry throat",5,34,Male
+953,Honey Syrup 107mg,Common Cold,"Runny nose, Sneezing, Fatigue",3.5,49,Female
+954,Chamomile Tea 132mg,Sore Throat,"Dry throat, Painful swallowing, Scratchy throat",5,37,All
+955,Chamomile Tea 472mg,Indigestion,"Gas, Bloating, Stomach discomfort",5,49,Male
+956,Steam Capsules 413mg,Indigestion,"Bloating, Gas, Stomach discomfort",5,21,All
+957,Ginger Extract 237mg,Fever,"Chills, High temperature, Body ache",5,36,All
+958,Paracetamol 112mg,Common Cold,"Runny nose, Sneezing, Fatigue",3.7,21,All
+959,Vitamin B12 180mg,Muscle Pain,"Soreness, Swelling, Stiffness",5,44,Male
+960,Aloe Vera Gel 262mg,Indigestion,"Stomach discomfort, Gas, Bloating",5,44,All
+961,Pain Relief Balm 411mg,Fever,"High temperature, Chills, Body ache",3,32,Male
+962,Coconut Water Sachets 453mg,Indigestion,"Bloating, Gas, Stomach discomfort",5,34,All
+963,Honey Syrup 461mg,Constipation,"Straining, Hard stools, Bloating",5,26,Female
+964,Tulsi Drops 101mg,Cough,"Chest discomfort, Dry cough, Throat irritation",5,31,All
+965,Steam Capsules 119mg,Indigestion,"Gas, Bloating, Stomach discomfort",3.3,44,Female
+966,Peppermint Oil 112mg,Sore Throat,"Dry throat, Painful swallowing, Scratchy throat",3.7,20,Male
+967,Antacid 263mg,Constipation,"Bloating, Hard stools, Straining",5,36,Male
+968,Probiotic Capsules 429mg,Common Cold,"Sneezing, Fatigue, Runny nose",5,30,All
+969,Steam Capsules 344mg,Headache,"Light sensitivity, Throbbing pain, Nausea",5,41,Female
+970,Zincovit 314mg,Indigestion,"Bloating, Stomach discomfort, Gas",5,36,Female
+971,Peppermint Oil 380mg,Muscle Pain,"Swelling, Stiffness, Soreness",5,41,Male
+972,Saline Nasal Spray 296mg,Headache,"Light sensitivity, Nausea, Throbbing pain",3,25,Female
+973,Honey Syrup 443mg,Fever,"Chills, Body ache, High temperature",3.2,43,All
+974,Pain Relief Balm 353mg,Fever,"High temperature, Chills, Body ache",5,35,All
+975,Eucalyptus Oil 140mg,Common Cold,"Runny nose, Fatigue, Sneezing",3.6,45,Female
+976,Herbal Cough Syrup 186mg,Constipation,"Bloating, Hard stools, Straining",5,34,Female
+977,Antacid 155mg,Cough,"Chest discomfort, Throat irritation, Dry cough",3.9,32,All
+978,Digestive Enzyme 327mg,Common Cold,"Fatigue, Sneezing, Runny nose",5,38,All
+979,Calpol 291mg,Headache,"Nausea, Throbbing pain, Light sensitivity",4.1,21,All
+980,Dolo 650 287mg,Common Cold,"Fatigue, Sneezing, Runny nose",5,29,All
+981,Paracetamol 90mg,Mild Allergy,"Itchy skin, Watery eyes, Sneezing",4.4,43,Male
+982,Tulsi Drops 446mg,Constipation,"Bloating, Hard stools, Straining",5,39,Female
+983,Coconut Water Sachets 347mg,Diarrhea,"Dehydration, Loose stools, Abdominal cramps",5,30,Male
+984,Tulsi Drops 343mg,Constipation,"Straining, Hard stools, Bloating",5,34,Male
+985,Antacid 491mg,Common Cold,"Runny nose, Fatigue, Sneezing",5,30,Female
+986,Vitamin B12 199mg,Constipation,"Hard stools, Straining, Bloating",5,38,All
+987,Menthol Rub 479mg,Sore Throat,"Scratchy throat, Painful swallowing, Dry throat",5,18,Male
+988,Coconut Water Sachets 181mg,Mild Allergy,"Watery eyes, Sneezing, Itchy skin",4.3,31,Male
+989,Electral 426mg,Fever,"Body ache, High temperature, Chills",5,36,All
+990,Electral 410mg,Headache,"Light sensitivity, Throbbing pain, Nausea",5,45,All
+991,Chamomile Tea 123mg,Common Cold,"Runny nose, Sneezing, Fatigue",3.9,43,Male
+992,Vitamin B12 119mg,Fever,"High temperature, Chills, Body ache",3.4,47,Female
+993,Aloe Vera Gel 449mg,Mild Allergy,"Sneezing, Watery eyes, Itchy skin",5,44,All
+994,Ajwain Tablets 197mg,Diarrhea,"Abdominal cramps, Dehydration, Loose stools",4.1,39,All
+995,Antacid 404mg,Indigestion,"Stomach discomfort, Bloating, Gas",5,49,Female
+996,Tulsi Tea 60mg,Indigestion,"Gas, Stomach discomfort, Bloating",3.8,33,Male
+997,Paracetamol 229mg,Indigestion,"Stomach discomfort, Gas, Bloating",5,46,Female
+998,Licorice Lozenges 307mg,Diarrhea,"Abdominal cramps, Dehydration, Loose stools",5,39,All
+999,Multivitamin Syrup 443mg,Constipation,"Straining, Bloating, Hard stools",5,34,Male
+1000,Paracetamol 226mg,Fever,"Body ache, High temperature, Chills",3.3,42,Male
+1001,Tab. Cetaine - cold,"fever , cold","fever , cold",5,31,Both
+1002,Tab. Sinarest- AF,"fever , cold , cough","fever , cold , cough",5,30,Both
+1003,Tab. Lecope- AD,"Cold , Cough","Cold , Cough",5,29,Both
+1004,Tab. Colpol 520 + Electzal powder,"fever , Dehydration","fever , Dehydration",5,28,Both
+1005,Tab. Calpol 520 + Tab. Zenflox.02,"fever , Diarrhea","fever , Diarrhea",5,27,Both
+1006,Tab. Zenflox 62 + Eletzal powder,"Diarrheaa , Dehydration ","Diarrheaa , Dehydration ",5,26,Both
+1007,Syp. Tus Q-Ex,Wet Cough,Wet Cough,5,37,Both
+1008,Syp. Ascozil- D,Dry Cough,Dry Cough,5,36,Both
+1009,Paracetamol (500mg) or Acetaminophen,,,,,

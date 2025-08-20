@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Feedback | Online Doctor</title>
+ <script>
+    (function() {
+      // Disable back button by manipulating history state
+      window.history.pushState(null, null, window.location.href);  // Push the current page state into the history
+      window.onpopstate = function() {
+        window.history.pushState(null, null, window.location.href);  // Prevent back navigation by pushing the same state
+      };
+
+      // Prevent refresh and back/forward buttons
+      window.addEventListener('keydown', function(event) {
+        if ((event.key === 'F5') || (event.ctrlKey && event.key === 'r')) {
+          event.preventDefault(); // Disable refresh
+          alert('Refreshing the page is disabled during this session.');
+        }
+      });
+
+      // Disable right-click menu to prevent page reload
+      document.addEventListener('contextmenu', function(event) {
+        event.preventDefault(); // Disable right-click menu
+      });
+    })();
+  </script>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: url('back4.jpg') no-repeat center center/cover;
+      color: rgb(16, 15, 15);
+    }
+
+    /* Header */
+    .header {
+      background: linear-gradient(90deg,#3d52c5, rgb(15, 154, 152));
+      color: white;
+      padding: 15px 20px;
+      display: flex;
+      align-items: center;
+    }
+
+    .header img {
+      height: 40px;
+      margin-right: 15px;
+    }
+
+    .header h1 {
+      font-size: 28px;
+      margin: 0;
+    }
+
+    main {
+      text-align: center;
+      padding: 40px 20px 80px;
+    }
+
+    .feedback-section {
+      background-color: #f1f9f9;
+      padding: 20px;
+      border-radius: 10px;
+      max-width: 600px;
+      margin: 0 auto;
+      opacity: 0.95;
+      box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    }
+
+    .form-group {
+      margin-bottom: 15px;
+      text-align: left;
+    }
+
+    label {
+      color: black;
+      font-size: 1rem;
+      display: block;
+    }
+
+    input[type="text"], input[type="number"] {
+      width: 90%;
+      padding: 10px;
+      margin-top: 5px;
+      font-size: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    .button-group {
+      margin-top: 20px;
+    }
+
+    button, .back-btn {
+      background: linear-gradient(90deg, #1A2980,rgb(15, 154, 152));
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 1rem;
+      margin: 5px;
+      text-decoration: none;
+    }
+
+    button:hover, .back-btn:hover {
+      background: linear-gradient(to right, #27ae60,rgb(40, 181, 99));
+    }
+
+    .message {
+      margin-top: 15px;
+      font-weight: bold;
+    }
+
+    .title {
+      margin-bottom: 20px;
+      color: #1A2980;
+    }
+    select {
+    width: 94%;
+    padding: 10px;
+    font-size: 1rem;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  .popup {
+  display: none;
+  background-color: #dff0d8;
+  color: #3c763d;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 20px;
+  font-size: 1rem;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+  animation: fadeInOut 3s forwards;
+}
+
+@keyframes fadeInOut {
+  0%   { opacity: 0; transform: translateY(10px); }
+  10%  { opacity: 1; transform: translateY(0); }
+  90%  { opacity: 1; }
+  100% { opacity: 0; display: none; }
+}
+footer {
+      color: black;
+      padding: 20px;
+      text-align: center;
+      margin-top: 70px;
+      font-size: 0.8rem;
+    }
+
+    .social-icons img {
+      width: 20px;
+      margin: 0 5px;
+      transition: 0.3s ease;
+    }
+
+    .social-icons img:hover {
+      transform: scale(1.2);
+    }
+
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <div class="header">
+    <img src="doctor1.jpg" alt="Online Doctor Logo">
+    <h1>Online Doctor</h1>
+  </div>
+
+  <!-- Main Feedback Section -->
+  <main>
+    <h1 class="title">Submit Your Feedback</h1>
+    <div class="feedback-section">
+      <h2>Provide Your Feedback</h2>
+      <div class="form-group">
+        <label for="recommendation_name">Recommended treatment</label>
+        <input type="text" id="recommendation_name" name="recommendation_name" list="recommendations" required>
+        <datalist id="recommendations">
+      </div>
+      <div class="form-group">
+        <label for="rating">Rating:</label>
+        <select id="rating" name="rating" required>
+          <option value="">-- Select Rating --</option>
+          <option value="1">1 - Poor</option>
+          <option value="2">2 - Fair</option>
+          <option value="3">3 - Good</option>
+          <option value="4">4 - Very Good</option>
+          <option value="5">5 - Excellent</option>
+        </select>
+        <small style="color: #333;">Note: 1 = Poor, 5 = Excellent</small>
+      </div>
+      
+
+      <div class="button-group">
+        <button onclick="sendFeedback()">Submit Feedback</button>
+        <!-- <button onclick="clearForm()">Clear</button> -->
+        <a href="main1.php" class="back-btn">Back to Home</a>
+      </div>
+
+      <div id="message" class="message"></div>
+      <div id="popup" class="popup">✅ Thank you for your feedback!</div>
+    </div>
+  </main>
+
+  <script>
+    // Load recommendations on page load
+    window.addEventListener('DOMContentLoaded', () => {
+      fetch('load_recommendations.php')
+        .then(response => response.json())
+        .then(data => {
+          const datalist = document.getElementById('recommendations');
+          data.forEach(name => {
+            const option = document.createElement('option');
+            option.value = name;
+            datalist.appendChild(option);
+          });
+        })
+        .catch(error => console.error('Error loading recommendations:', error));
+    });
+  
+    function sendFeedback() {
+      const recommendationName = document.getElementById('recommendation_name').value.trim();
+      const rating = parseInt(document.getElementById('rating').value);
+      const popup = document.getElementById('popup');
+  
+      if (!recommendationName || isNaN(rating) || rating < 1 || rating > 5) {
+        alert('❗ Please provide a valid recommendation name and rating (1–5).');
+        return;
+      }
+  
+      const feedbackData = {
+        recommendation_name: recommendationName,
+        rating: rating
+      };
+  
+      fetch('save_feedback.php', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(feedbackData)
+      })
+      .then(response => response.json())
+      .then(data => {
+        if (data.success) {
+          popup.style.display = 'block';
+  
+          setTimeout(() => {
+            document.getElementById('recommendation_name').value = '';
+            document.getElementById('rating').value = '';
+          }, 500);
+  
+          setTimeout(() => {
+            popup.style.display = 'none';
+          }, 3000);
+        } else {
+          alert("❌ Failed to submit feedback. Please try again.");
+        }
+      })
+      .catch(error => {
+        console.error('Error:', error);
+        alert("⚠️ Network error. Please try again later.");
+      });
+    }
+  </script>
+  
+<footer>
+  <p>Contact us on:</p>
+  <div class="social-icons">
+    <a href="https://www.instagram.com/online_doctor43?utm_source=qr&igsh=Y2Y4ZjQ3dHhwbWtw" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram"></a>
+    <a href="https://twitter.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter"></a>
+    <a href="https://www.facebook.com/share/16SJkSEe8y/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook"></a>
+    <a href="https://chat.whatsapp.com/HqZdd2NdGZdFAQZapWpcMM" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp"></a>
+  </div>
+  <p>&copy; 2025 Health Recommendation System</p>
+</footer>
+
+</body>
+</html>
